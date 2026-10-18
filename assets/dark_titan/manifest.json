@@ -1,0 +1,46 @@
+{
+  "status": "INCOMPLETE_SOURCE_KEYFRAMES",
+  "frame_size": [
+    512,
+    512
+  ],
+  "expected_per_animation": 16,
+  "assets": [
+    {
+      "filename": "heavy_walk_key_01.png",
+      "source": "exec-c3dcf0f5-d722-4638-be7c-d29d125d38ce.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "filename": "heavy_walk_key_02.png",
+      "source": "exec-a80bb368-a316-46d0-ab30-d14e3204e646.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "filename": "beast_charge_key_01.png",
+      "source": "exec-da735406-5ec6-40d6-b5eb-1e25fa4ea690.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "filename": "beast_charge_key_02.png",
+      "source": "exec-38e049b1-f9b0-40cb-811a-ca98b5623aba.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    },
+    {
+      "filename": "beast_charge_key_03.png",
+      "source": "exec-31d9d272-31f1-47b2-bf98-3ffb76dbb1f3.png",
+      "width": 512,
+      "height": 512,
+      "transparent": true
+    }
+  ],
+  "note": "These are isolated source key poses, not complete playable sprite sheets. No impact/contact indices are certified."
+}

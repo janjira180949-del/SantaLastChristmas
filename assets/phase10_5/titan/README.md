@@ -1,0 +1,2 @@
+# Phase 10.5 pose extraction
+Approved Phase 10.3 source pixels, extracted using measured atlas gutters and the primary connected silhouette. No AI regeneration, redesign or interpolation. One nearest-neighbor scale per sequence; canvas 512x512, anchor (256,496), 16 distinct frames, 4x4 sheets. Foot contacts and charge clocks remain the original live model. Source atlases and previous frames are unchanged. Original anatomy/detail differences and a few source-edge limitations remain.

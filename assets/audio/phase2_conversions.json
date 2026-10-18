@@ -1,0 +1,146 @@
+[
+  {
+    "source": "assets/audio/sfx/combat/kenney_rpg-audio/Audio/knifeSlice.ogg",
+    "source_sha256": "4cd96dc630bed9840c15f1dd2306da2cc56a4da26a5d3f1a03c5a7265ac5e54f",
+    "output": "assets/audio/runtime/sfx/santa_attack.wav",
+    "sha256": "f5fab3f5ae685564cea065b73838251049380fa6663ca844d726f17e0bb14c87",
+    "seconds": 0.5995464852607709,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactPunch_medium_000.ogg",
+    "source_sha256": "486988aa2d6440ffc4c62a0e8ccf3c23673ba84424bd4723378d451b7255eb5c",
+    "output": "assets/audio/runtime/sfx/enemy_hit.wav",
+    "sha256": "9ac5096d31ea7541f1fd3e422169a3f0c82a1164b34cc66f65efc9abf26565fe",
+    "seconds": 0.43054421768707485,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactPunch_heavy_000.ogg",
+    "source_sha256": "b33a8f14068aec24ec69ba85e5e87fdc41228975f6a1a3e44a6e7d6fc3d9f8d8",
+    "output": "assets/audio/runtime/sfx/santa_damage.wav",
+    "sha256": "be353cebe73f9926b99cabd9983203c6fca9522409bedf9f460ea1e3123ec935",
+    "seconds": 0.6490249433106576,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactSoft_heavy_000.ogg",
+    "source_sha256": "49e7ca88743fca974bb8676ea138b751cfd8f9033b5e7af8736c2a215d6edbc1",
+    "output": "assets/audio/runtime/sfx/enemy_defeat.wav",
+    "sha256": "8c899caf345248d48c94b6620939c7393f5a11462be471c095f782d0e7618384",
+    "seconds": 0.5268027210884354,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_rpg-audio/Audio/cloth1.ogg",
+    "source_sha256": "ddb93a3671233f95da0e0b10367f082f7eb42fa6caaddcf776410aa8833c747d",
+    "output": "assets/audio/runtime/sfx/dash.wav",
+    "sha256": "0ab01c60dc25ff6487edf115b62d8f7d349abf2c0bb0e87af0db7767da5d8e8f",
+    "seconds": 0.6610430839002267,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactBell_heavy_000.ogg",
+    "source_sha256": "94b8bb5f2d43ab65e4bcc32b28562416e9bc2c51d9fd4be1e333660ee52f977f",
+    "output": "assets/audio/runtime/sfx/christmas_bell.wav",
+    "sha256": "1b08917d8ea67194e21e08a7f91d0ed3d23ceab16c6b4a085915abdb95510b19",
+    "seconds": 1.4801814058956917,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactGlass_heavy_000.ogg",
+    "source_sha256": "b44b39a940e8948e74b9bd3776bff980df43cf220abdaf0d467dc4c43c0244a5",
+    "output": "assets/audio/runtime/sfx/crystal_break.wav",
+    "sha256": "9d6f93ada92889101062897eccb2a96b446f9ac3da4598dde7d61e16f694c64b",
+    "seconds": 0.2383219954648526,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/magic/magical_3.ogg",
+    "source_sha256": "9fac648a1de869cf9ca2f4b3f1cd47f1766a3ee9d2fdec45831234401d7b2392",
+    "output": "assets/audio/runtime/sfx/quest_complete.wav",
+    "sha256": "acec7a98783230227eeb0a54ad5b1ff91b0a9c1ccf453415b4930548566d1827",
+    "seconds": 1.8205895691609977,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_rpg-audio/Audio/handleCoins2.ogg",
+    "source_sha256": "4b857968d64f9ac9336a10ffac6694d7547e1f01566ad6857b30bc8db3ee6c32",
+    "output": "assets/audio/runtime/sfx/gift_pickup.wav",
+    "sha256": "6485c8167fb1a80f74b4d187ad4215ca81a1d4ac917b84d66223e455eba51264",
+    "seconds": 0.3382086167800454,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/magic/magical_1.ogg",
+    "source_sha256": "119f9061a566c72c1c58444b03f8685b833079ef268dda02fe742eb34d3bc68f",
+    "output": "assets/audio/runtime/sfx/healing_shrine.wav",
+    "sha256": "c43598f2243ef73027bf673419f33a5ad2c63f6f0e7a8e35b3c582b1c83d5e0a",
+    "seconds": 1.6090022675736961,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_rpg-audio/Audio/bookOpen.ogg",
+    "source_sha256": "953390534377222bee89ac8cd9e60a58fdc037c71a4d7c18c43cd647c7f34ba8",
+    "output": "assets/audio/runtime/sfx/npc_interaction.wav",
+    "sha256": "9c6134f6f62f145b024d1d8e2c866125438b81db8f7f0d552efe217ccf9fa192",
+    "seconds": 0.1510657596371882,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactMetal_heavy_000.ogg",
+    "source_sha256": "e07045693e4a2b3d165c424e3dab4c781d9ff8880a386880ac89a51315d7f831",
+    "output": "assets/audio/runtime/sfx/boss_attack.wav",
+    "sha256": "bd30b2b6fc8135c9aa467302bc47ffa87502045e7261cebad62b02bc4de965e1",
+    "seconds": 0.16476190476190475,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/combat/kenney_impact-sounds/Audio/impactPlate_heavy_000.ogg",
+    "source_sha256": "112d4f93ddcc370b410630f971c0f5d991856102da9c76bc5c5540d388e75aaa",
+    "output": "assets/audio/runtime/sfx/boss_damage.wav",
+    "sha256": "8a62d14a40ffe7e48b6518b5f1f7650c5064861de89deaf3f9f273f66368bd64",
+    "seconds": 0.4886621315192744,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/magic/magical_3.ogg",
+    "source_sha256": "9fac648a1de869cf9ca2f4b3f1cd47f1766a3ee9d2fdec45831234401d7b2392",
+    "output": "assets/audio/runtime/sfx/boss_phase.wav",
+    "sha256": "acec7a98783230227eeb0a54ad5b1ff91b0a9c1ccf453415b4930548566d1827",
+    "seconds": 1.8205895691609977,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/magic/magical_1.ogg",
+    "source_sha256": "119f9061a566c72c1c58444b03f8685b833079ef268dda02fe742eb34d3bc68f",
+    "output": "assets/audio/runtime/sfx/boss_defeat.wav",
+    "sha256": "c43598f2243ef73027bf673419f33a5ad2c63f6f0e7a8e35b3c582b1c83d5e0a",
+    "seconds": 1.6090022675736961,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  },
+  {
+    "source": "assets/audio/sfx/magic/magical_1.ogg",
+    "source_sha256": "119f9061a566c72c1c58444b03f8685b833079ef268dda02fe742eb34d3bc68f",
+    "output": "assets/audio/runtime/sfx/spirit_tree_restore.wav",
+    "sha256": "c43598f2243ef73027bf673419f33a5ad2c63f6f0e7a8e35b3c582b1c83d5e0a",
+    "seconds": 1.6090022675736961,
+    "format": "PCM signed 16-bit, stereo, 44100 Hz",
+    "processing": "Decode/resample/channel conversion only; no normalization, trimming or synthesis"
+  }
+]

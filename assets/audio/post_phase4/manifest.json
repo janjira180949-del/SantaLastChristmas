@@ -1,0 +1,227 @@
+[
+  {
+    "id": "60004",
+    "creator": "qubodup",
+    "source_url": "https://freesound.org/people/qubodup/sounds/60004/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/60004__qubodup__fast-sword-swing-sound.flac",
+    "original_filename": "60004__qubodup__fast-sword-swing-sound.flac",
+    "source_sha256": "4e4722a7146666727a68e72b4174ffdd773617cd3e8207c4855230c5aa8a26b5",
+    "runtime": "assets/audio/post_phase4/60004_sword_swing.wav",
+    "runtime_sha256": "3681f6ad29ed1c0c8ce26f502fbbe3a94f26113f6868ae58ca384042064f1135",
+    "duration": 0.3834920634920635,
+    "peak": 30000,
+    "rms": 2696.6346457182835,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.915555;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "60004",
+      "url": "https://freesound.org/people/qubodup/sounds/60004/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "595d3dd721b49140bbec346012f1ecbdec63b9f99cebdf337d5389e7f27ffbbe"
+    },
+    "event_ids": [
+      "santa.swing.v01",
+      "santa.swing.v02",
+      "santa.swing.v03"
+    ]
+  },
+  {
+    "id": "715067",
+    "creator": "SkySpeira",
+    "source_url": "https://freesound.org/people/SkySpeira/sounds/715067/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/715067__skyspeira__achievement-sparkle.wav",
+    "original_filename": "715067__skyspeira__achievement-sparkle.wav",
+    "source_sha256": "aab5fd8bac7a65135226e17f0d005e71968a72992345bccea8479a5afd5ab6cf",
+    "runtime": "assets/audio/post_phase4/715067_delivery_success.wav",
+    "runtime_sha256": "a1459bc4b7f537b83e502fde70161bd32e05894ddd5329ffa0deab502338aef0",
+    "duration": 1.7586394557823128,
+    "peak": 11272,
+    "rms": 1650.237151423678,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; gain8x (+18.06dB) for unusually quiet source;3ms tail fade; no pitch/layers",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "715067",
+      "url": "https://freesound.org/people/SkySpeira/sounds/715067/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "f47f79bcaaab204ee50a5473ed1ef14c04ebc57965af983848f4a422a3799bdc"
+    },
+    "event_ids": [
+      "delivery.success"
+    ]
+  },
+  {
+    "id": "555420",
+    "creator": "tonsil5",
+    "source_url": "https://freesound.org/people/tonsil5/sounds/555420/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/555420__tonsil5__zombie-hit-1.wav",
+    "original_filename": "555420__tonsil5__zombie-hit-1.wav",
+    "source_sha256": "ecf22dad84b6c5eb7a25f0d236631d229ec45cbd0137c80a65b5b58cfd156c49",
+    "runtime": "assets/audio/post_phase4/555420_zombie_hit.wav",
+    "runtime_sha256": "63669ea0e0611d9f793e53332726510ebb51260de0e26259663a516e2729262f",
+    "duration": 0.5687755102040817,
+    "peak": 11196,
+    "rms": 1383.4245936901164,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.900000;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "555420",
+      "url": "https://freesound.org/people/tonsil5/sounds/555420/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "8e5d16d7533b3305829c9a61bbcf780e94d6cfc606cd0bd862ad172d133dafa4"
+    },
+    "event_ids": [
+      "runner.hurt.v01",
+      "runner.hurt.v02",
+      "runner.hurt.v03",
+      "walker.hurt.v01",
+      "walker.hurt.v02",
+      "walker.hurt.v03"
+    ]
+  },
+  {
+    "id": "442958",
+    "creator": "qubodup",
+    "source_url": "https://freesound.org/people/qubodup/sounds/442958/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/442958__qubodup__explosion.wav",
+    "original_filename": "442958__qubodup__explosion.wav",
+    "source_sha256": "194c7325963871e26f766bd272639e8cf4e10d38157c34acc35290cb29d32333",
+    "runtime": "assets/audio/post_phase4/442958_bomb_explosion.wav",
+    "runtime_sha256": "0043b8ed3203c86a2233b8e5fab572c05804a860fa8e0e6ee03019b6135abd81",
+    "duration": 0.8261224489795919,
+    "peak": 19826,
+    "rms": 5370.644199491718,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.850000;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "442958",
+      "url": "https://freesound.org/people/qubodup/sounds/442958/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "83d4786cecf2cc6750371508029afc8871484796401fd896e54d61280542a42d"
+    },
+    "event_ids": [
+      "bomb.explosion"
+    ]
+  },
+  {
+    "id": "728185",
+    "creator": "PaulzSoundz",
+    "source_url": "https://freesound.org/people/PaulzSoundz/sounds/728185/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/728185__paulzsoundz__monster-yell-pain-or-growl.wav",
+    "original_filename": "728185__paulzsoundz__monster-yell-pain-or-growl.wav",
+    "source_sha256": "a7db24e6f4ffbeb90b7899ea40203948e733b186375bde7cf9877384cf16fc4c",
+    "runtime": "assets/audio/post_phase4/728185_fang_intro.wav",
+    "runtime_sha256": "0729419d6533f026c6e8f65e91c3d930799cf4cad78a864c02a51b0fe42badcf",
+    "duration": 4.144784580498866,
+    "peak": 27853,
+    "rms": 3587.924570573352,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.850000;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "728185",
+      "url": "https://freesound.org/people/PaulzSoundz/sounds/728185/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "8311015651d8cacf9fbd012dec01d3b5661aaca886ade65056d4250cc90d53e1"
+    },
+    "event_ids": [
+      "fang.entrance"
+    ]
+  },
+  {
+    "id": "555421",
+    "creator": "tonsil5",
+    "source_url": "https://freesound.org/people/tonsil5/sounds/555421/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/555421__tonsil5__zombie-pain-4.wav",
+    "original_filename": "555421__tonsil5__zombie-pain-4.wav",
+    "source_sha256": "a964a489d10340f1b1c9a9d7408d3a619bd4460e44588c2b4ec9a693caa31902",
+    "runtime": "assets/audio/post_phase4/555421_creature_hurt_02.wav",
+    "runtime_sha256": "094680a40646f0b85877e1e48b80d0e2a6526602b3073b2e4d314f98c8eea6e0",
+    "duration": 0.6102267573696145,
+    "peak": 15439,
+    "rms": 2481.9880221923154,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.900000;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "555421",
+      "url": "https://freesound.org/people/tonsil5/sounds/555421/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "a6f924dad1e667d6ae659c12efaad6d270012c816c3fa506f7e213cc661301bc"
+    },
+    "event_ids": [
+      "fang.hurt.v02",
+      "mini_fang.hurt.v02"
+    ]
+  },
+  {
+    "id": "204912",
+    "creator": "Noxdl",
+    "source_url": "https://freesound.org/people/Noxdl/sounds/204912/",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-18",
+    "source": "assets/audio/incoming/204912__noxdl__didgeridoo-monster-roar.mp3",
+    "original_filename": "204912__noxdl__didgeridoo-monster-roar.mp3",
+    "source_sha256": "80c1cc3e9aa30c0907a76ac6aca35e0d007db6bd1296a9313659adac716b1452",
+    "runtime": "assets/audio/post_phase4/204912_titan_intro.wav",
+    "runtime_sha256": "465059b0b8c4f61ca610713c96e5dd151695476320c06f8ac4ccc0ed74a4c397",
+    "duration": 3.1346938775510202,
+    "peak": 27853,
+    "rms": 8998.646368202126,
+    "clipped_samples": 0,
+    "processing": "Full recording, resample44100Hz/stereo/PCM16; amplitude factor0.850000;3ms tail fade; no pitch/layers/silence substitution",
+    "format": "44100Hz signed16bit stereo PCM WAV",
+    "license_evidence": {
+      "id": "204912",
+      "url": "https://freesound.org/people/Noxdl/sounds/204912/",
+      "status": "VERIFIED_CC0",
+      "license_links": [
+        "http://creativecommons.org/publicdomain/zero/1.0/"
+      ],
+      "page_sha256": "c8cfce9a1ec44b9243a4cb7d925cf2e1706171590ca66ddb2ddbc003cd7b8d77"
+    },
+    "event_ids": [
+      "titan.entrance"
+    ]
+  }
+]

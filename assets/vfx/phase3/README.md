@@ -1,0 +1,4 @@
+# Phase 3 original VFX
+Built-in imagegen, 2026-10-17. Two original transparent illustrated pixel-art atlases: Black Frost summon smoke (16 frames) and crimson/violet crystalline beam (8 frames). No downloaded artwork or existing character/UI frame modified.
+Masters and generation briefs: build/phase3/generated-originals and build/phase3/generation-prompts.txt. Java ImageIO extraction, alpha-bound alignment and nearest-neighbor resampling: build/phase3/PreparePhase3.java. Smoke shares a ground anchor at (64,120) in128px cells. Beam core stays on the horizontal centerline in512x256 cells; decorations are not collision.
+Runtime sheets preload once; individual PNGs are review/export frames. Gameplay clocks, collision and damage are not driven by the images. Mini Frost Fangs reuse the approved original Fang artwork at121/269 display scale; no new character design.

@@ -1,0 +1,1 @@
+INCOMPLETE WORK IN PROGRESS. Five isolated source key poses only. The requested 16-frame heavy_walk.png and 16-frame beast_charge.png do not exist. Do not integrate this as a finished animation. The source images were normalized with nearest-neighbor to 512x512 transparent RGBA. Foot contact and seamless looping have not passed validation.

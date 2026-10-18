@@ -1,0 +1,634 @@
+[
+  {
+    "slug": "100-cc0-metal-and-wood-sfx",
+    "title": "100 CC0 metal and wood SFX",
+    "creator": "rubberduck",
+    "source_url": "https://opengameart.org/content/100-cc0-metal-and-wood-sfx",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "49cfce7a141c8825a74b90d1a4e420c748b7d821fe684a9ad1af00cfda07dfdb",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/100-CC0-wood-metal-SFX.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "keys_02.ogg",
+      "metal_sheet_02.ogg",
+      "wood_close_01.ogg",
+      "wood_cracking_01.ogg",
+      "wood_cracking_02.ogg",
+      "wood_cracking_03.ogg",
+      "wood_hammer_01.ogg",
+      "wood_squeak_01.ogg"
+    ],
+    "outputs_using_source": [
+      "ambience/base.wav",
+      "ambience/forest.wav",
+      "ambience/town_peaceful.wav",
+      "ambience/village_frozen.wav",
+      "ambience/village_restored.wav",
+      "sfx/foley__keys_02.wav",
+      "sfx/foley__metal_sheet_02.wav",
+      "sfx/foley__wood_close_01.wav",
+      "sfx/foley__wood_cracking_01.wav",
+      "sfx/foley__wood_cracking_02.wav",
+      "sfx/foley__wood_cracking_03.wav",
+      "sfx/foley__wood_hammer_01.wav",
+      "sfx/foley__wood_squeak_01.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/100-cc0-metal-and-wood-sfx.html"
+  },
+  {
+    "slug": "42-snow-and-gravel-footsteps",
+    "title": "42 Snow and Gravel Footsteps",
+    "creator": "Corsica_S; extracted by Iwan Gabovitch (qubodup)",
+    "source_url": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "b57b7138eb55a1fb245e01273b32d803a1d831acf20cdc77ee810564ffdcc7f0",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/corsica_s-walking_in_snow.7z"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Corsica_S-Walking_on_snow_covered_gravel_01.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_02.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_03.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_04.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_and_ice_01.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_and_ice_02.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_and_ice_03.flac",
+      "Corsica_S-Walking_on_snow_covered_gravel_and_ice_04.flac"
+    ],
+    "outputs_using_source": [
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_01.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_02.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_03.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_04.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_and_ice_01.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_and_ice_02.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_and_ice_03.wav",
+      "sfx/footsteps__corsica_s_walking_on_snow_covered_gravel_and_ice_04.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/42-snow-and-gravel-footsteps.html",
+    "provenance": "Corsica_S recorded; Iwan Gabovitch extracted with explicit permission to distribute CC0, confirmed by included readme."
+  },
+  {
+    "slug": "80-cc0-creature-sfx",
+    "title": "80 CC0 creature SFX",
+    "creator": "rubberduck",
+    "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "barking_02.ogg",
+      "breath.ogg",
+      "grunt_01.ogg",
+      "grunt_03.ogg",
+      "grunt_05.ogg",
+      "howl.ogg",
+      "hurt_01.ogg",
+      "hurt_02.ogg",
+      "hurt_03.ogg",
+      "hurt_04.ogg",
+      "hurt_05.ogg",
+      "monster_04.ogg",
+      "roar_01.ogg",
+      "roar_02.ogg",
+      "roar_03.ogg"
+    ],
+    "outputs_using_source": [
+      "sfx/creature__barking_02.wav",
+      "sfx/creature__breath.wav",
+      "sfx/creature__grunt_01.wav",
+      "sfx/creature__grunt_03.wav",
+      "sfx/creature__grunt_05.wav",
+      "sfx/creature__howl.wav",
+      "sfx/creature__hurt_01.wav",
+      "sfx/creature__hurt_02.wav",
+      "sfx/creature__hurt_03.wav",
+      "sfx/creature__hurt_04.wav",
+      "sfx/creature__hurt_05.wav",
+      "sfx/creature__monster_04.wav",
+      "sfx/creature__roar_01.wav",
+      "sfx/creature__roar_02.wav",
+      "sfx/creature__roar_03.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/80-cc0-creature-sfx.html"
+  },
+  {
+    "slug": "80-cc0-rpg-sfx",
+    "title": "80 CC0 RPG SFX",
+    "creator": "rubberduck",
+    "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "blade_01.ogg",
+      "blade_02.ogg",
+      "blade_03.ogg",
+      "book_01.ogg",
+      "book_02.ogg",
+      "book_03.ogg",
+      "creature_die_01.ogg",
+      "creature_roar_01.ogg",
+      "item_gem_01.ogg",
+      "item_gem_02.ogg",
+      "item_gem_03.ogg",
+      "item_gem_04.ogg",
+      "item_stone_02.ogg",
+      "item_stone_03.ogg",
+      "item_stone_04.ogg",
+      "item_wood_01.ogg",
+      "item_wood_02.ogg",
+      "lock_01.ogg",
+      "lock_03.ogg",
+      "metal_01.ogg",
+      "metal_02.ogg",
+      "spell_01.ogg",
+      "spell_02.ogg",
+      "stones_01.ogg",
+      "stones_02.ogg",
+      "stones_03.ogg",
+      "stones_04.ogg"
+    ],
+    "outputs_using_source": [
+      "ambience/town_corrupted.wav",
+      "sfx/rpg__blade_01.wav",
+      "sfx/rpg__blade_02.wav",
+      "sfx/rpg__blade_03.wav",
+      "sfx/rpg__book_01.wav",
+      "sfx/rpg__book_02.wav",
+      "sfx/rpg__book_03.wav",
+      "sfx/rpg__creature_die_01.wav",
+      "sfx/rpg__creature_roar_01.wav",
+      "sfx/rpg__item_gem_01.wav",
+      "sfx/rpg__item_gem_02.wav",
+      "sfx/rpg__item_gem_03.wav",
+      "sfx/rpg__item_gem_04.wav",
+      "sfx/rpg__item_stone_02.wav",
+      "sfx/rpg__item_stone_03.wav",
+      "sfx/rpg__item_stone_04.wav",
+      "sfx/rpg__item_wood_01.wav",
+      "sfx/rpg__item_wood_02.wav",
+      "sfx/rpg__lock_01.wav",
+      "sfx/rpg__lock_03.wav",
+      "sfx/rpg__metal_01.wav",
+      "sfx/rpg__metal_02.wav",
+      "sfx/rpg__spell_01.wav",
+      "sfx/rpg__spell_02.wav",
+      "sfx/rpg__stones_01.wav",
+      "sfx/rpg__stones_02.wav",
+      "sfx/rpg__stones_03.wav",
+      "sfx/rpg__stones_04.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/80-cc0-rpg-sfx.html"
+  },
+  {
+    "slug": "fantasy-song-pack-volume-1",
+    "title": "Fantasy Song Pack Volume 1",
+    "creator": "troubadour",
+    "source_url": "https://opengameart.org/content/fantasy-song-pack-volume-1",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "17c56ef509e0e1e6e84eba50083528f120079ce873f0c2afeb4ac988f6312fa8",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/back_to_nature.mp3",
+      "https://opengameart.org/sites/default/files/bells_of_winter.mp3",
+      "https://opengameart.org/sites/default/files/fairy_lights.mp3",
+      "https://opengameart.org/sites/default/files/homestead.mp3",
+      "https://opengameart.org/sites/default/files/jaunt.mp3",
+      "https://opengameart.org/sites/default/files/snow_day.mp3",
+      "https://opengameart.org/sites/default/files/springly_sprigs.mp3",
+      "https://opengameart.org/sites/default/files/wandering_woodlands.mp3"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "back_to_nature.mp3",
+      "bells_of_winter.mp3",
+      "fairy_lights.mp3",
+      "homestead.mp3",
+      "jaunt.mp3",
+      "snow_day.mp3",
+      "springly_sprigs.mp3",
+      "wandering_woodlands.mp3"
+    ],
+    "outputs_using_source": [
+      "music/back_to_nature__loop.wav",
+      "music/bells_of_winter__loop.wav",
+      "music/fairy_lights__loop.wav",
+      "music/homestead__loop.wav",
+      "music/jaunt__loop.wav",
+      "music/snow_day__loop.wav",
+      "music/springly_sprigs__loop.wav",
+      "music/wandering_woodlands__loop.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/fantasy-song-pack-volume-1.html"
+  },
+  {
+    "slug": "fantozzis-footsteps-grasssand-stone",
+    "title": "Fantozzi's Footsteps (Grass/Sand & Stone)",
+    "creator": "Fantozzi; individual steps extracted by Iwan Gabovitch (qubodup)",
+    "source_url": "https://opengameart.org/content/fantozzis-footsteps-grasssand-stone",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "1339dd3e5fbfb759815264befffca8a1c877492dbfb8f24965f6e6586f7241cd",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/Fantozzi-footsteps.7z"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Fantozzi-StoneL1.flac",
+      "Fantozzi-StoneL2.flac",
+      "Fantozzi-StoneR1.flac",
+      "Fantozzi-StoneR2.flac"
+    ],
+    "outputs_using_source": [
+      "sfx/footstep_stone_01.wav",
+      "sfx/footstep_stone_02.wav",
+      "sfx/footstep_stone_03.wav",
+      "sfx/footstep_stone_04.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/fantozzis-footsteps-grasssand-stone.html",
+    "provenance": "Established qubodup curation; page explicitly traces Fantozzi Freesound pack10338 and its CC0 origin. Original Freesound URL returned403 during direct verification; OGA license/provenance and original artist credit are preserved. No conflicting license found."
+  },
+  {
+    "slug": "fireplace-sound-loop",
+    "title": "Fireplace Sound loop",
+    "creator": "PagDev",
+    "source_url": "https://opengameart.org/content/fireplace-sound-loop",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "731c19c8b055449f097d9e21dc551a5660f6eb1b61d755c4405a6cc37d84d1d8",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/fire.wav"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "fire.wav"
+    ],
+    "outputs_using_source": [
+      "ambience/local_village_campfire.wav",
+      "ambience/town_peaceful.wav",
+      "ambience/village_restored.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/fireplace-sound-loop.html"
+  },
+  {
+    "slug": "jrpg-pack-1-exploration",
+    "title": "JRPG Pack 1 Exploration",
+    "creator": "Juhani Junkala (SubspaceAudio)",
+    "source_url": "https://opengameart.org/content/jrpg-pack-1-exploration",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "7c372aaebbe8194a0506c92ea59740e956800aced1de1a412d9222da1b50d21f",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/JRPG%20Music%20Pack%20%231%20%5BExploration%5D%20by%20Juhani%20Junkala.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Exploration4 - Prairie Nights.ogg",
+      "Exploration5 - Sneaking Around.ogg"
+    ],
+    "outputs_using_source": [
+      "music/exploration4_prairie_nights__loop.wav",
+      "music/exploration5_sneaking_around__loop.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/jrpg-pack-1-exploration.html"
+  },
+  {
+    "slug": "jrpg-pack-2-towns",
+    "title": "JRPG Pack 2 Towns",
+    "creator": "Juhani Junkala (SubspaceAudio)",
+    "source_url": "https://opengameart.org/content/jrpg-pack-2-towns",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "387eebb6b84b7bc75211e5832f0cabc9324503e13b7f33262e8361306c5869aa",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/JRPG%20Music%20Pack%20%232%20%5BTowns%5D%20by%20Juhani%20Junkala.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Town1 - Home Town.ogg",
+      "Town2 - Where Time Stands Still.ogg"
+    ],
+    "outputs_using_source": [
+      "music/town1_home_town__loop.wav",
+      "music/town2_where_time_stands_still__loop.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/jrpg-pack-2-towns.html"
+  },
+  {
+    "slug": "jrpg-pack-3-evil",
+    "title": "JRPG Pack 3 Evil",
+    "creator": "Juhani Junkala (SubspaceAudio)",
+    "source_url": "https://opengameart.org/content/jrpg-pack-3-evil",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "57ca4f906edde51bb6ece94eab8a0ffbe33f59647833db87268c133fa0dd9a1b",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/JRPG%20Music%20Pack%20%233%20%5BEvil%5D%20by%20Juhani%20Junkala.zip"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Evil1 - Ancient Evil Awakens.ogg",
+      "Evil2 - Catacombs.ogg",
+      "Evil3 - Apocalypse.ogg",
+      "Evil4 - Witch's Lair.ogg",
+      "Evil5 - Whispers From Beyond.ogg"
+    ],
+    "outputs_using_source": [
+      "music/evil1_ancient_evil_awakens__loop.wav",
+      "music/evil2_catacombs__loop.wav",
+      "music/evil3_apocalypse__loop.wav",
+      "music/evil4_witch_s_lair__loop.wav",
+      "music/evil5_whispers_from_beyond__loop.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/jrpg-pack-3-evil.html"
+  },
+  {
+    "slug": "jrpg-pack-5-action",
+    "title": "JRPG Pack 5 Action",
+    "creator": "Juhani Junkala (SubspaceAudio)",
+    "source_url": "https://opengameart.org/content/jrpg-pack-5-action",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "2c4db53e691c79b4283670d729705571a9609072e607bd2b725f0e19e205e7ce",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/JRPG%20Music%20Pack%20%235%20%5BAction%5D%20by%20Juhani%20Junkala.zip"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "Action1 - Encounter With The Witches.ogg",
+      "Action2 - Army Approaching.ogg",
+      "Action3 - Preparing For Battle.ogg"
+    ],
+    "outputs_using_source": [
+      "music/action1_encounter_with_the_witches__loop.wav",
+      "music/action2_army_approaching__loop.wav",
+      "music/action3_preparing_for_battle__loop.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/jrpg-pack-5-action.html"
+  },
+  {
+    "slug": "magic-spell-sfx",
+    "title": "Magic Spell SFX",
+    "creator": "JaggedStone",
+    "source_url": "https://opengameart.org/content/magic-spell-sfx",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "5476a028e9f70fb3f2f61eeb37f894a6b4496bac3c1f4a924753927da31aecca",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/magical_1_0.ogg",
+      "https://opengameart.org/sites/default/files/magical_2.ogg",
+      "https://opengameart.org/sites/default/files/magical_3.ogg",
+      "https://opengameart.org/sites/default/files/magical_4.ogg",
+      "https://opengameart.org/sites/default/files/magical_5.ogg",
+      "https://opengameart.org/sites/default/files/magical_6_0.ogg",
+      "https://opengameart.org/sites/default/files/magical_7_0.ogg"
+    ],
+    "verified_date": "2026-10-16",
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "magical_2.ogg",
+      "magical_4.ogg",
+      "magical_5.ogg",
+      "magical_6_0.ogg",
+      "magical_7_0.ogg"
+    ],
+    "outputs_using_source": [
+      "sfx/magic__magical_2.wav",
+      "sfx/magic__magical_4.wav",
+      "sfx/magic__magical_5.wav",
+      "sfx/magic__magical_6_0.wav",
+      "sfx/magic__magical_7_0.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/cc0-audio-pack/pages/magic-spell-sfx.html"
+  },
+  {
+    "slug": "steps-in-wood-floor",
+    "title": "Steps in wood floor",
+    "creator": "mikeask",
+    "source_url": "https://opengameart.org/content/steps-in-wood-floor",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "9f434fd4b8fbd809c13d549805e72e537b9713cc9ad8549a121f561b233a7382",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/steps%20in%20wood%20floor.wav"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "steps in wood floor.wav"
+    ],
+    "outputs_using_source": [
+      "sfx/footstep_wood_01.wav",
+      "sfx/footstep_wood_02.wav",
+      "sfx/footstep_wood_03.wav",
+      "sfx/footstep_wood_04.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/steps-in-wood-floor.html"
+  },
+  {
+    "slug": "the-shop",
+    "title": "The Shop",
+    "creator": "LEGIT Audio",
+    "source_url": "https://opengameart.org/content/the-shop",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "f77732a6764491ae3d7ba33533a06085860a97d56c7392300eeb7259bf9f94e7",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/legit_audio_-_the_shop_free_sfx_wav.zip"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "TheShopCollection_convenience_store_drinks_fridge_drone.wav",
+      "TheShopCollection_convenience_store_drinks_fridge_drone_2.wav"
+    ],
+    "outputs_using_source": [
+      "ambience/base.wav",
+      "ambience/local_crystal.wav",
+      "ambience/local_titan_ritual.wav",
+      "ambience/town_corrupted.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/the-shop.html",
+    "license_scope": "Only free OGA attachments are CC0; no paid/Gumroad library recordings used."
+  },
+  {
+    "slug": "wind1",
+    "title": "wind1",
+    "creator": "Luke.RUSTLTD",
+    "source_url": "https://opengameart.org/content/wind1",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "verified_date": "2026-10-16",
+    "page_sha256": "28172222587cdbafc3ae31970a4dcf815c6b763f12b3c1bb41e5b7fea15be6c7",
+    "downloads": [
+      "https://opengameart.org/sites/default/files/wind1.wav",
+      "https://opengameart.org/sites/default/files/wind2.wav",
+      "https://opengameart.org/sites/default/files/wind3.wav",
+      "https://opengameart.org/sites/default/files/wind4.wav",
+      "https://opengameart.org/sites/default/files/wind5.wav"
+    ],
+    "redistribution_permitted": true,
+    "commercial_use_permitted": true,
+    "modification_permitted": true,
+    "rights_basis": "Verified CC0 1.0 dedication in source page primary License(s) field; evidence hashes and author/source trace retained. No ownership warranty or endorsement implied.",
+    "used_original_files": [
+      "wind1.wav",
+      "wind2.wav",
+      "wind3.wav",
+      "wind4.wav",
+      "wind5.wav"
+    ],
+    "outputs_using_source": [
+      "ambience/base.wav",
+      "ambience/forest.wav",
+      "ambience/local_crystal.wav",
+      "ambience/local_titan_ritual.wav",
+      "ambience/town_corrupted.wav",
+      "ambience/town_peaceful.wav",
+      "ambience/village_frozen.wav",
+      "ambience/village_restored.wav"
+    ],
+    "license_field_text": "CC0",
+    "original_page_snapshot_local": "build/phase10-6a1/pages/wind1.html",
+    "provenance": "Luke.RUSTLTD describes creating these synthesized wind recordings in PureData; tutorial acknowledged on source page."
+  },
+  {
+    "slug": "battle-theme-a",
+    "title": "Battle Theme A",
+    "creator": "cynicmusic",
+    "source_url": "https://opengameart.org/content/battle-theme-a",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "a884b8e21331efdefe483f126874c771688c2642b5d631558206e8693822a4b4",
+    "page_file": "assets/audio/phase10_6/licenses/phase10_6c/battle-theme-a.html",
+    "verified_date": "2026-10-16",
+    "rights": "CC0 permits commercial use, modification and public redistribution, including GitHub. No endorsement implied."
+  },
+  {
+    "slug": "epic-fight-themeboss-battle",
+    "title": "Epic Fight Theme/Boss Battle",
+    "creator": "Tarush Singhal",
+    "source_url": "https://opengameart.org/content/epic-fight-themeboss-battle",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "page_sha256": "482d942df99fc08166151dd187bfab07fab2de4b025c88941db589aa14887c1a",
+    "page_file": "assets/audio/phase10_6/licenses/phase10_6c/epic-fight-themeboss-battle.html",
+    "verified_date": "2026-10-16",
+    "rights": "CC0 permits commercial use, modification and public redistribution, including GitHub. No endorsement implied."
+  },
+  {
+    "slug": "laugh",
+    "creator": "canucklovingbrit",
+    "title": "santa - ho ho ho #2.wav",
+    "source_url": "https://freesound.org/people/canucklovingbrit/sounds/110642/",
+    "download_url": "https://cdn.freesound.org/previews/110/110642_1903175-hq.mp3",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_sha256": "a0b29a4f94b717ed94898e3618f4320121b461850caa0e055e9c7d378d61c71b",
+    "page_sha256": "8e01e658f8500d9b157bef858e19b5cb1ee5495714b8e500147d2e1675ba131c",
+    "duration": 2.5722902494331064,
+    "file": "build/town-final-fixes/audio-sources/laugh-hq.mp3",
+    "quality": "Public official high-quality MP3 preview; not the login-gated original WAV.",
+    "page_file": "assets/audio/phase10_6/licenses/town_final/laugh.html",
+    "verified_date": "2026-10-16",
+    "rights": "Primary creator page explicitly CC0; commercial redistribution/modification allowed. Public official HQ preview obtained; no full-download authentication bypass."
+  },
+  {
+    "slug": "bells",
+    "creator": "soundstack",
+    "title": "Sleigh bells 90 bpm loop.wav",
+    "source_url": "https://freesound.org/people/soundstack/sounds/255104/",
+    "download_url": "https://cdn.freesound.org/previews/255/255104_37011-hq.mp3",
+    "license": "CC0-1.0",
+    "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+    "source_sha256": "706055e29b67b5eb68a774e988c36b3e0eb8a5310be5e6b5f7541de883b237a2",
+    "page_sha256": "f47a651a5318ffde0f9bb77e002962773f3fd7be60fddb63364bdf3215f5aaf6",
+    "duration": 107.33333333333333,
+    "file": "build/town-final-fixes/audio-sources/bells-hq.mp3",
+    "quality": "Public official high-quality MP3 preview; not the login-gated original WAV.",
+    "page_file": "assets/audio/phase10_6/licenses/town_final/bells.html",
+    "verified_date": "2026-10-16",
+    "rights": "Primary creator page explicitly CC0; commercial redistribution/modification allowed. Public official HQ preview obtained; no full-download authentication bypass."
+  }
+]

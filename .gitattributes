@@ -1,0 +1,4 @@
+src/** -text
+tests/*.java -text
+*.ps1 -text
+srcs.txt -text

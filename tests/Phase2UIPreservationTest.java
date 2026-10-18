@@ -1,0 +1,28 @@
+import game.*;import java.nio.file.*;import java.nio.charset.*;import java.util.*;
+public class Phase2UIPreservationTest extends V2TestSupport {
+ static String old(String path)throws Exception{return new String(Phase10PreservationSupport.archive(path,"PHASE2_UI"),StandardCharsets.UTF_8).replace("\r\n","\n");}
+ static String now(String path)throws Exception{return new String(Phase3PreservationSupport.previous(path,Files.readAllBytes(Path.of(path))),StandardCharsets.UTF_8).replace("\r\n","\n");}
+ static String segment(String text,String a,String b){return text.substring(text.indexOf(a),text.indexOf(b,text.indexOf(a)));}
+ static String without(String text,String a,String b){return text.replace(segment(text,a,b),"<presentation>");}
+ public static void main(String[]args)throws Exception{
+  var allowed=Phase2UIPreservationSupport.allowed();var changed=new TreeSet<String>();int count=0;
+  var matcher=java.util.regex.Pattern.compile("\"([^\"]+)\":\\s*\"([a-f0-9]{64})\"").matcher(Files.readString(Path.of("docs/PHASE2_UI_BASELINE.json")));
+  while(matcher.find()){String path=matcher.group(1),prior=matcher.group(2);byte[] bytes=Phase3PreservationSupport.previous(path,Files.readAllBytes(Path.of(path)));String hash=ForestPreservationSupport.hash(bytes);
+   check(hash.equals(allowed.getProperty(path,prior)),"Exact previous or reviewed UI revision "+path);check(ForestPreservationSupport.hash(Phase2UIPreservationSupport.previous(path,bytes)).equals(prior),"Authenticated recovery "+path);
+   if(!hash.equals(prior))changed.add(path);count++;
+  }
+  check(count==1720&&changed.equals(allowed.stringPropertyNames()),"Complete Phase 1 baseline and exact UI-only change set");
+  for(String path:changed)if(path.startsWith("src/"))check(Set.of("src/ui/HUD.java","src/ui/AbilityHUD.java","src/ui/DialogueBox.java","src/ui/GameScreens.java","src/ui/VillageActivityUI.java","src/game/GamePanel.java","src/game/StoryOverlay.java","src/game/EndingCutscene.java","src/game/BossFallPresentation.java").contains(path),"Only dedicated UI/presentation owners "+path);
+  check(Phase2UIPreservationSupport.assets().size()==16,"Exact newly generated assets and provenance");
+  for(String path:List.of("src/game/EndingCutscene.java","src/game/BossFallPresentation.java"))check(without(old(path),"    public void drawScreen(",path.contains("BossFall")?"\n}":"    private static void centered(").equals(without(now(path),"    public void drawScreen(",path.contains("BossFall")?"\n}":"    private static void centered(")),"Whole cinematic owner unchanged outside screen drawing "+path);
+  String path="src/game/StoryOverlay.java";check(without(old(path),"    public void draw(Graphics2D","    private static List<String> wrap").equals(without(now(path),"    public void draw(Graphics2D","    private static List<String> wrap")),"Story pages, world animation, camera and clocks unchanged");
+  path="src/ui/VillageActivityUI.java";check(segment(old(path),"    public void open(","    private static BufferedImage paper()").equals(segment(now(path),"    public void open(","    private static BufferedImage paper()")),"All modal navigation, confirmation, letter order and hitboxes unchanged");
+  check(segment(old(path),"    public static void parchment(","    private static void button(").equals(segment(now(path),"    public static void parchment(","    private int hoverX")),"Approved Iris/Journey parchment renderer unchanged");
+  path="src/ui/HUD.java";check(segment(old(path),"    static final class BossHud","    private record QuestRow").equals(segment(now(path),"    static final class BossHud","    private record QuestRow")),"Approved Boss HUD artwork and feedback exactly unchanged");
+  path="src/game/GamePanel.java";String revised=now(path).replace("ChristmasUI.sleighPrompt(graphics,santa,camera,getWidth(),getHeight());","FinalChapterVisuals.drawPrompt(graphics,\"[E] Return Home\",santa,camera,getWidth(),getHeight());").replace("var marker=ChristmasUI.directionPosition(px,py,questBox,getWidth(),getHeight(),\n                new java.awt.Rectangle(santa.getX()-camera.getX()-35,santa.getY()-camera.getY()-55,102,110));\n        px=marker.x;py=marker.y;","if(px<questBox.getMaxX()+16&&py>questBox.y-40)py=Math.max(150,questBox.y-40);").replace("import ui.ChristmasUI;\n","").replace("        ChristmasUI.prepare();\n","").replace("        activityWindow.hover(skillMouse.x,skillMouse.y,getWidth(),getHeight());\n","").replace("GameScreens.drawPause(graphics,getWidth(),getHeight(),skillMouse)","GameScreens.draw(graphics,getWidth(),getHeight(),\"A MOMENT OF QUIET\",\"Rest here. The last light will wait.\",\"RESUME [ENTER / ESC]\")");
+  check(without(old(path),"    private void drawStoryNotification(","    private QuestGuidance.Objective currentObjective()").equals(without(revised,"    private void drawStoryNotification(","    private QuestGuidance.Objective currentObjective()")),"Entire GamePanel unchanged except preload, pause/hover, sleigh prompt, notice drawing and tracker-aware arrow placement; every input/update/audio/camera/world hook retained");
+  for(int area=0;area<4;area++)Phase2UIPreservationSupport.frame(area,ForestLandmarkPreservationTest.raw(area));
+  SantaBaseVisuals.prepareAsync().get();var base=SantaBaseNavigationTest.opening();base.setSize(1600,1280);Phase2UIPreservationSupport.frame(3,render(base));base.stopGame();check(true,"All neutral area frames and Base overview match outside exact tracker/skill UI rectangles");
+  System.out.println("Phase2UIPreservationTest PASS "+checks+" exact baseline, artwork, cinematic, input/audio and localized renderer assertions");
+ }
+}

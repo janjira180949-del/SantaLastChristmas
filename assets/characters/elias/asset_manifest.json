@@ -1,0 +1,69 @@
+{
+  "method": "Deterministic original-pixel Java2D extraction; boundary-connected cold blue background/grid/cast-shadow removal. No generated or redrawn pixels.",
+  "source": "reference/elias/elias_reference_sheet.png",
+  "source_sha256": "41b32babec1cb6e7abf37dd8b1ce9405dc6109afc8740da26a9d214aaaf596ee",
+  "extract_command": "java tools/ExtractEliasArtwork.java",
+  "left_pose": "Whole-pose horizontal reflection of LEFT panel because both supplied profiles face screen right. No new pose or walking frames.",
+  "crops_xywh": {
+    "down": [
+      334,
+      180,
+      132,
+      250
+    ],
+    "up": [
+      481,
+      180,
+      125,
+      250
+    ],
+    "left": [
+      620,
+      180,
+      116,
+      250
+    ],
+    "right": [
+      755,
+      180,
+      118,
+      250
+    ],
+    "portrait": [
+      899,
+      64,
+      322,
+      468
+    ]
+  },
+  "sha256_by_path": {
+    "assets/characters/elias/idle/elias_idle_down_01.png": "e6f5518cf9438dc1c0c5513f022fb17dafdee0258f7401fc90088ca44a71a612",
+    "assets/characters/elias/idle/elias_idle_left_01.png": "d2a777433d64ac27cf47b297d40e9b642a248ba608828c13ae236f489c0dcd30",
+    "assets/characters/elias/idle/elias_idle_right_01.png": "f6b68d319142592824cb20d528ffe97db0fd9681198bb9179169bd0727f54f92",
+    "assets/characters/elias/idle/elias_idle_up_01.png": "4f1fe8cac52ba65a570ef3df42f872282c5ec8e3eb512f16e15c8da294e225af",
+    "assets/characters/elias/portraits/elias_portrait_neutral.png": "93bc218aa0043a86ee0ec02da4acb8442cfe40eb95be43ecc028e4ca3ad8cc06"
+  },
+  "png_dimensions": {
+    "assets/characters/elias/idle/elias_idle_down_01.png": [
+      132,
+      250
+    ],
+    "assets/characters/elias/idle/elias_idle_left_01.png": [
+      116,
+      250
+    ],
+    "assets/characters/elias/idle/elias_idle_right_01.png": [
+      118,
+      250
+    ],
+    "assets/characters/elias/idle/elias_idle_up_01.png": [
+      125,
+      250
+    ],
+    "assets/characters/elias/portraits/elias_portrait_neutral.png": [
+      322,
+      468
+    ]
+  },
+  "rendering": "Four static 64x64 cached canvases, visible body height 52, feet (32,60); nearest-neighbor. One neutral portrait reused for existing dialogue expression requests."
+}

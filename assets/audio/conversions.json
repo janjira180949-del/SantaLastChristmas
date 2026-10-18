@@ -1,0 +1,57 @@
+[
+  {
+    "source": "assets/audio/music/wintery loop.wav",
+    "output": "assets/audio/runtime/music/wintery_loop.wav",
+    "sha256": "c27f9aa0423da9d186184f771a423e8f82c40aac19ae06bbc96e86df25923f55"
+  },
+  {
+    "source": "assets/audio/music/BGM_Snow_Theme_Loop.flac",
+    "output": "assets/audio/runtime/music/snow_theme.wav",
+    "sha256": "d7bc278fc5851197ad0c5b4d4ff1779b2dc2a77331a016b38cdaef6ab4ae860c"
+  },
+  {
+    "source": "build/audio-phase1/extracted/Beyond the Frozen Veil (Loop).flac",
+    "output": "assets/audio/runtime/music/beyond_the_frozen_veil.wav",
+    "sha256": "ea9444e1b402951fb22bc475858be6ef3e30abff5c05e62d7220546eac99a37f"
+  },
+  {
+    "source": "assets/audio/music/winter-wind-short.mp3",
+    "output": "assets/audio/runtime/music/winter_wind.wav",
+    "sha256": "37d4963614f1c85101260994828627d200160acabbf20e67762258db362a70f1"
+  },
+  {
+    "source": "assets/audio/music/Juhani Junkala - Epic Boss Battle [Seamlessly Looping].wav",
+    "output": "assets/audio/runtime/music/epic_boss_battle.wav",
+    "sha256": "efbb3d04c7f24f2bad9ca27a279f73f5745bf3ee559ad682b1eecfb308a5d78e"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/select_001.ogg",
+    "output": "assets/audio/runtime/ui/select_001.wav",
+    "sha256": "72d4aab07ae5200d3ab5a9175d9289fe74c5cf74a6b3bbaa50cc2ae26a4402a3"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/click_001.ogg",
+    "output": "assets/audio/runtime/ui/click_001.wav",
+    "sha256": "dfebdb9f5b403b3ff7783989a315acf8ba0209156b7e2d30900a1e73f99867c6"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/confirmation_001.ogg",
+    "output": "assets/audio/runtime/ui/confirmation_001.wav",
+    "sha256": "f40cdf858aa24625b0551f53bfcecc154c079bcbe4b17a4cd22b5ae62baa13aa"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/back_001.ogg",
+    "output": "assets/audio/runtime/ui/back_001.wav",
+    "sha256": "9675e9bb77ce1e8d945beb9b1a66910c1d19512b792c53bc46aad970c38b6926"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/switch_001.ogg",
+    "output": "assets/audio/runtime/ui/switch_001.wav",
+    "sha256": "cf3d72a5a654e206b6e44c2d3232dc082a31c707d9b1e070c842f5dc90bdef3b"
+  },
+  {
+    "source": "assets/audio/sfx/ui/kenney_interface-sounds/Audio/confirmation_002.ogg",
+    "output": "assets/audio/runtime/ui/confirmation_002.wav",
+    "sha256": "f28c6512c489b6ca1566c4869fc0052cee7cb95368e87ec62086daf5e294ed63"
+  }
+]

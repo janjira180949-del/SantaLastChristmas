@@ -1,0 +1,3700 @@
+{
+  "date": "2026-10-17",
+  "license": "CC0-1.0",
+  "authorship": "Edited/composited credited recordings; not new field recordings.",
+  "listening": "NOT HUMAN AUDITIONED; technical checks do not certify artistic quality.",
+  "sources": [
+    {
+      "file": "build/phase4/bell3446.ogg",
+      "sha256": "606a7e32ace204e5fbc93f89e200b6c3015451f6f13dafddea46a566c3599116",
+      "original_filename": "3446.ogg",
+      "creator": "Joseph SARDIN & Axeline T.",
+      "source_url": "https://bigsoundbank.com/cloche-1h-s3446.html",
+      "license": "CC0-1.0",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://bigsoundbank.com/UPLOAD/ogg/3446.ogg",
+          "path": "build/phase4/bell3446.ogg",
+          "sha256": "606a7e32ace204e5fbc93f89e200b6c3015451f6f13dafddea46a566c3599116"
+        }
+      ],
+      "page_sha256": "f6a218312d3442b7071298283cecd76370e4399c193eac66b1165ba952cd35d5"
+    },
+    {
+      "file": "build/phase4/muffled-distant-explosion.wav",
+      "sha256": "13a0bf75af94ec6d332bc71cba489b573466e05c4b17288158b3d683b41de39f",
+      "original_filename": "NenadSimic%20-%20Muffled%20Distant%20Explosion.wav",
+      "creator": "NenadSimic",
+      "source_url": "https://opengameart.org/content/muffled-distant-explosion",
+      "license": "CC0-1.0",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/NenadSimic%20-%20Muffled%20Distant%20Explosion.wav",
+          "path": "build/phase4/muffled-distant-explosion.wav",
+          "sha256": "13a0bf75af94ec6d332bc71cba489b573466e05c4b17288158b3d683b41de39f"
+        }
+      ],
+      "page_sha256": "2886823ef7ef4e03bb81b1acc0409c077917c3bdea7d65514eca7a7813e1e54f"
+    },
+    {
+      "file": "build/phase4/glass-break.wav",
+      "sha256": "37d29069c885afe3f7ca639293fa679fb6511a6a1e54316f0e403e4493f502b3",
+      "original_filename": "glass_breaking.wav",
+      "creator": "Till Behrend (submitted by TinyWorlds)",
+      "source_url": "https://opengameart.org/content/glass-break",
+      "license": "CC0-1.0",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/glass_breaking.wav",
+          "path": "build/phase4/glass-break.wav",
+          "sha256": "37d29069c885afe3f7ca639293fa679fb6511a6a1e54316f0e403e4493f502b3"
+        }
+      ],
+      "page_sha256": "e5748446994808120b4ccdd58ff9085200dbcaec849d4b1d7b774e10932a1eee"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_01.flac",
+      "sha256": "5cafa1340f3c981c6c624c15f925373d0bb9c44a2e1c806ac1d7dc31cdb8cdfe",
+      "original_filename": "Corsica_S-Walking_on_snow_covered_gravel_and_ice_01.flac",
+      "creator": "Corsica_S; extracted by Iwan Gabovitch (qubodup)",
+      "source_url": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/corsica_s-walking_in_snow.7z"
+      ],
+      "page_sha256": "b57b7138eb55a1fb245e01273b32d803a1d831acf20cdc77ee810564ffdcc7f0"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_02.flac",
+      "sha256": "a801a7bd981281625d92c41ac1b88f4760bf7d287f21348208a91fb8c2726f47",
+      "original_filename": "Corsica_S-Walking_on_snow_covered_gravel_and_ice_02.flac",
+      "creator": "Corsica_S; extracted by Iwan Gabovitch (qubodup)",
+      "source_url": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/corsica_s-walking_in_snow.7z"
+      ],
+      "page_sha256": "b57b7138eb55a1fb245e01273b32d803a1d831acf20cdc77ee810564ffdcc7f0"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_03.flac",
+      "sha256": "17b53cd24dc83ef457206e6dfa03d51be6197cd7b5fd33f6dbdf49fdf76ded48",
+      "original_filename": "Corsica_S-Walking_on_snow_covered_gravel_and_ice_03.flac",
+      "creator": "Corsica_S; extracted by Iwan Gabovitch (qubodup)",
+      "source_url": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/corsica_s-walking_in_snow.7z"
+      ],
+      "page_sha256": "b57b7138eb55a1fb245e01273b32d803a1d831acf20cdc77ee810564ffdcc7f0"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_04.flac",
+      "sha256": "b10c0da38f85a76bf04246fac369b651dee07be4dac0ea97ffc49b040da954ff",
+      "original_filename": "Corsica_S-Walking_on_snow_covered_gravel_and_ice_04.flac",
+      "creator": "Corsica_S; extracted by Iwan Gabovitch (qubodup)",
+      "source_url": "https://opengameart.org/content/42-snow-and-gravel-footsteps",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/corsica_s-walking_in_snow.7z"
+      ],
+      "page_sha256": "b57b7138eb55a1fb245e01273b32d803a1d831acf20cdc77ee810564ffdcc7f0"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_01.ogg",
+      "sha256": "8a5d2964febb0c69cc4df2ee5257d173f2cae6960d9534df0001dbf356f27028",
+      "original_filename": "item_gem_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+      ],
+      "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_03.ogg",
+      "sha256": "7b29674b7c8fb0069814623d86fa56a3f370eedcde73d5ce1ecc7339be3a3cba",
+      "original_filename": "item_gem_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+      ],
+      "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+      "sha256": "bf9c48b76921e56aa266172d969a2c08215d6ce0ffae7c3584f23fa05d3f8bd4",
+      "original_filename": "spell_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+      ],
+      "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-5.wav",
+      "sha256": "4db41f2d2f97caf94627be05ff2870217fecc86534cf30f2aab413b847a0d50a",
+      "original_filename": "swish-5.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_01.ogg",
+      "sha256": "56c627582671ee7f7910d87dee7a0a77814143e06b430cd10cd9e674ec1990d5",
+      "original_filename": "bfh1_hit_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_wood_hit_01.ogg",
+      "sha256": "841caeb101eeaebcb88afed9cd64db0de1b00c7f3b06835daefaabc95b970337",
+      "original_filename": "bfh1_wood_hit_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_01.ogg",
+      "sha256": "fcb2e28730c725b794af2e48c784ca933396cf5792f9e24869ed969ae4d888ed",
+      "original_filename": "bfh1_metal_hit_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-6.wav",
+      "sha256": "edcaacf008da7ae692566f4fe0d6023ea68d0a014149889e95209be7ee0b746d",
+      "original_filename": "swish-6.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_02.ogg",
+      "sha256": "a3bd154c391e65947dcd700dfa64b927676253a2e1d229e63443f0ef5f955474",
+      "original_filename": "bfh1_hit_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_02.ogg",
+      "sha256": "e368991507cfb1ad84743fa64289bd8731acd1b8fa256db1612a30cd0c7d2725",
+      "original_filename": "bfh1_metal_hit_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-7.wav",
+      "sha256": "e6de737a34de16afed094d6170d7679149022f149e0a8356d2f029b0e8f4a4d7",
+      "original_filename": "swish-7.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_03.ogg",
+      "sha256": "91ef5562417a631bdb306d3c70ec7d33a2d418f5266c1488695a993877af21f9",
+      "original_filename": "bfh1_hit_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_03.ogg",
+      "sha256": "9ae472059557118675f843f5a0a16eea20331d1d1ee2a60a1b4757580579f00f",
+      "original_filename": "bfh1_metal_hit_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-2.wav",
+      "sha256": "1ce7752cce3d43f16fc222ad7f7ffb69d9a5fc01e64b93d205765fc37b8e9b0d",
+      "original_filename": "swish-2.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+      "sha256": "eb32d258cb72a304a3571fb0849f4b89c212cf21f434aad304bfb7eacfe9cb49",
+      "original_filename": "bfh1_glass_hit_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-1.wav",
+      "sha256": "9a15c881345c1ce1c39cc31f52f081c8c4dc81fa41111e0079400f39d3ba0e45",
+      "original_filename": "swish-1.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_01.ogg",
+      "sha256": "09821a53c418c5eeeac4fa25bada9d245e822fed302eeeae9ae4151522a45ae5",
+      "original_filename": "spell_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+      ],
+      "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_02.ogg",
+      "sha256": "451e56c4c581305c985ad58ca1e6b15cd7562a5ff1b2a49d66a732fec0ca9a0b",
+      "original_filename": "bfh1_glass_hit_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_02.ogg",
+      "sha256": "a5f4b0b3ae0e272765619289ef6709513e0dfa0785d7559e8a223176a8bcf181",
+      "original_filename": "item_gem_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-rpg-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-RPG-SFX_0.zip"
+      ],
+      "page_sha256": "0ae7785350c81ef93a7ba86a20092a14a6aab3b00ca9fb4db91caa546d6f960b"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-3.wav",
+      "sha256": "55b100e2c67fa43dad8510e31e85bbd51a68d5ce84a6e0259e21e19030083e24",
+      "original_filename": "swish-3.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_02.ogg",
+      "sha256": "3e06b794511f693b6aaca5eee1d47491bab74d814746a68de6c8bf4eec744ccc",
+      "original_filename": "bfh1_rock_breaking_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_01.ogg",
+      "sha256": "438c45398ee77a40d5cc6ffcc59db0cdc709dc6d0521da5e2896b4afc19fcacb",
+      "original_filename": "bfh1_glass_breaking_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_01.ogg",
+      "sha256": "970cac3139e1530009ca87f8ee0dd800dc4da61917a5e62bdc83d475a9bf4da7",
+      "original_filename": "bfh1_rock_breaking_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_02.ogg",
+      "sha256": "35dcb1dc69338bad745e1cd56c676d04e4afb6687b9aa6d05ba83a255252747b",
+      "original_filename": "bfh1_glass_breaking_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_03.ogg",
+      "sha256": "065edd6caeb5846fa9cddbaeacbabcdea834e7c42182ff98297f2e49f126cc25",
+      "original_filename": "bfh1_glass_breaking_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_hit_01.ogg",
+      "sha256": "a9c0d7e562bdcc7619bb100206305ac2300f9bb7e4533bdfbae46da4289fe994",
+      "original_filename": "bfh1_rock_hit_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/howl.ogg",
+      "sha256": "e63e29a219dfbe64724525600f36db7aab6017145650ffbc92763f87181c7825",
+      "original_filename": "howl.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+      "sha256": "d6ecfd092c261059701fe81581957ce6e67c1737978449bbd98ec6d4f30abb7f",
+      "original_filename": "breath.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_01.ogg",
+      "sha256": "619f9f2b4bc6cb013b4a62d0ef515a11e4be3a73c9d78c7c12ec5669b166d2cd",
+      "original_filename": "hurt_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_02.ogg",
+      "sha256": "b90ca3a0f5f48e1141ec6326f08ebf9f597efb6b2ca4ceeccc285b203c1ccbe1",
+      "original_filename": "hurt_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_03.ogg",
+      "sha256": "53e0ff510ef43f583befea63af23af1d82ddb993b981f7c3c0e7eb5f0f9d21ab",
+      "original_filename": "hurt_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-8.wav",
+      "sha256": "113a3709ad889ad2fcf38eaceaf4eb9d67ffe1e96713fed93a6f0aed08769980",
+      "original_filename": "swish-8.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_01.ogg",
+      "sha256": "444d1d351eada5c0b8849420dd09fcd95024e28fc7423b3f41effd0df1729337",
+      "original_filename": "bfh1_glass_falling_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_05.ogg",
+      "sha256": "c3e1a46dcf5dc0c15706f3333bfccd0b8d491aa197bc39274a6b5588b3da1ffd",
+      "original_filename": "bfh1_hit_05.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_01.ogg",
+      "sha256": "73ee84f2bb3e1b371a72dd66a09f150c98c9000bcb735c3bdd7f607e59385206",
+      "original_filename": "grunt_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_03.ogg",
+      "sha256": "f2a23b32fcf9cbdabf059339d346ce7eead018fda778067827e71b96936989f1",
+      "original_filename": "grunt_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_04.ogg",
+      "sha256": "65a6524d46bbf2acccb09b551fe7e3616dbd19f62266b5ea7e6313df29031df1",
+      "original_filename": "hurt_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-10.wav",
+      "sha256": "4f7381a76f280d3f36f962ac3f44f16f77eec44797f30715d063c81ea3859024",
+      "original_filename": "swish-10.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_02.ogg",
+      "sha256": "27d1c4f6ded6aab19ce3c573139c65ed756719d6e200ca08bd387d499e27e6e0",
+      "original_filename": "bfh1_glass_falling_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_04.ogg",
+      "sha256": "b5038806325fa2f336a70cfb72c643d6eaa6e69df084988d4c63d65a0123000c",
+      "original_filename": "bfh1_glass_breaking_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_03.ogg",
+      "sha256": "60311be4cc96c38de5d79377a5506977528f6c5830557ea5454003e558fc53f1",
+      "original_filename": "bfh1_glass_falling_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-11.wav",
+      "sha256": "9e81d548d8215fbb36f7a41b5771d4b52c2fd02fbb9b5ff9a4c65118fd88ee4d",
+      "original_filename": "swish-11.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-12.wav",
+      "sha256": "0513a86d428d9ed8601e93b8554580a5932c6c1a82d39d81a8f48883f1807a67",
+      "original_filename": "swish-12.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/monster_04.ogg",
+      "sha256": "04b556b93bf3f99255ac362ebe7f905f750a8bcbb653f78ef7191adb91e71f49",
+      "original_filename": "monster_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/roar_03.ogg",
+      "sha256": "983396c808eb658ed3bd223ffaf9ea7f756dba7bc45ecc3fde117083026a4556",
+      "original_filename": "roar_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_03.ogg",
+      "sha256": "968284eeb6838bd6f41ec721a763d12eab5130b541f120aa1887008b0b1c73ae",
+      "original_filename": "bfh1_metal_falling_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_04.ogg",
+      "sha256": "4fbc2b361ce055a3b94d43489108582313dd999e5761d4e69d59c9c7abcec295",
+      "original_filename": "grunt_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_05.ogg",
+      "sha256": "164059a171a8a7d8f1a2fcfdb195a9d50da3ab67bed0b52f4c2c3409fe5df049",
+      "original_filename": "grunt_05.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_01.ogg",
+      "sha256": "9e58d2d3302c1bad27267cef6a2b3b47bb636f49f77d8e4b986ac81a26e80d7b",
+      "original_filename": "bfh1_rock_falling_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_02.ogg",
+      "sha256": "c8421825c5e08e4bf4ed290232963aeffcf4e179c28d33a6714c5fb9704f799f",
+      "original_filename": "bfh1_rock_falling_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_03.ogg",
+      "sha256": "16080f9bc90924b0e4ede52922529e30e34e72af32a505b39bdfc5ebcbb9248c",
+      "original_filename": "bfh1_rock_falling_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_04.ogg",
+      "sha256": "a60fb182abebc50819d4794adbed365c940219307b713c3224d93b7f384635e9",
+      "original_filename": "bfh1_rock_falling_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/monster_02.ogg",
+      "sha256": "2f590aec7086b2327a141ec71d5e8b8e83524a30e6b9baf3be2784f4adb153b3",
+      "original_filename": "monster_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_02.ogg",
+      "sha256": "e40e73a05a9b1ae7d45e24aa898bf610b32334dae80a5c00abe3e2ce0f7d207a",
+      "original_filename": "bfh1_metal_falling_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/swishes-sound-pack/swishes/swish-13.wav",
+      "sha256": "698230ba3fe05a68c18d68cd6b3a07fb98e6c1198bb1a4238592ee9912c02c77",
+      "original_filename": "swish-13.wav",
+      "creator": "artisticdude",
+      "source_url": "https://opengameart.org/content/swishes-sound-pack",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/swishes.zip",
+          "path": "build/phase4/swishes-sound-pack.zip",
+          "sha256": "7980215241b739a787dcf26f660ce510bb237900968789395a86911619795693"
+        }
+      ],
+      "page_sha256": "1fb7c7c5ddbf1bb6027691303cc51dc015d1563f8434768cae04d34a7573fd56"
+    },
+    {
+      "file": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/roar_02.ogg",
+      "sha256": "ceb532ee0fe775d6f86a821099b75f1790ab8022b963cb837c8c1fa4fffee5c2",
+      "original_filename": "roar_02.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/80-cc0-creature-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        "https://opengameart.org/sites/default/files/80-CC0-creature-SFX_0.zip"
+      ],
+      "page_sha256": "c08f237b5f5f364e22af3d5dbde7f80771d270bf13ded81f3fb8b61a10e850f8"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_03.ogg",
+      "sha256": "a4f7a3ccebff4e8211b6aa146b8ff708bdea1c4e41115ab3b8a0d0c33094d6ee",
+      "original_filename": "bfh1_rock_breaking_03.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_01.ogg",
+      "sha256": "7071a56807c7ccf3aa4becba09abd08df0f3e1c844b1ce47d6975dcdfe49562d",
+      "original_filename": "bfh1_metal_falling_01.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_05.ogg",
+      "sha256": "9e788240282b05f4fd70414b133ab43f9f0c82e36f4879f7eefc9ed062850574",
+      "original_filename": "bfh1_glass_breaking_05.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_04.ogg",
+      "sha256": "09c9e3e4b6b3ca5641a820a8709916f7d8ccc66611ac8c2b12f706409a1c2e29",
+      "original_filename": "bfh1_glass_falling_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_04.ogg",
+      "sha256": "bfa1a79f6f7f6f9e811d052fa5b6989ddf272243c98673bc107552caff1ed16a",
+      "original_filename": "bfh1_metal_falling_04.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    },
+    {
+      "file": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_05.ogg",
+      "sha256": "393a4e3c38aa1e3144fcc9972f68f25e38d1852e4793bbd9d0d88a467f319b6b",
+      "original_filename": "bfh1_metal_hit_05.ogg",
+      "creator": "rubberduck",
+      "source_url": "https://opengameart.org/content/75-cc0-breaking-falling-hit-sfx",
+      "license": "CC0-1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "verified_date": "2026-10-17",
+      "original_downloads": [
+        {
+          "url": "https://opengameart.org/sites/default/files/sfx_breaking_and_falling.zip",
+          "path": "build/phase4/75-cc0-breaking-falling-hit-sfx.zip",
+          "sha256": "e6ee04d91c5f4d30cfda1260d2c9d1faf96fda36319287215fbd07bcb1a80451"
+        }
+      ],
+      "page_sha256": "cdb6e0f58a7bb9956c785365e680c592c14d7e911a4ebd7dbf20df029bc53463"
+    }
+  ],
+  "assets": [
+    {
+      "file": "assets/audio/phase4/delivery_success.wav",
+      "sha256": "97047456211a707aef28a147b2661ff2fb4069faecf34b2b2bc70baf076acca4",
+      "pcm_sha256": "0d7a16c80343854a31b6635972d67f475cec7493d1cf31f0da4043ba13486730",
+      "duration_seconds": 1.65,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_01.ogg",
+          "gain": 0.38,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_03.ogg",
+          "gain": 0.36,
+          "playback_rate": 1,
+          "delay_seconds": 0.16,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.22,
+          "playback_rate": 1,
+          "delay_seconds": 0.3,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/bell3446.ogg",
+          "gain": 0.2,
+          "playback_rate": 1.7,
+          "delay_seconds": 0.12,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_swing_1.wav",
+      "sha256": "5980d5aeaa33df5d28193538cf3f0c88e2b34286a9488c02ee885d5c775628ea",
+      "pcm_sha256": "db9a4721c086be34d76f7be3e1fa84b59e6111727a799f9be1900a1eddb1f022",
+      "duration_seconds": 0.1292063492063492,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-5.wav",
+          "gain": 1,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_body_1.wav",
+      "sha256": "6e7be7f9b98ac53d5b020dc795fe68c6d319a9d1e33d49c1aa941b39d034cd84",
+      "pcm_sha256": "2771476aa546b54c88a5139bd83d3c0e834fd05a32af2e7d598c2ce5e7b2f658",
+      "duration_seconds": 0.32,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_01.ogg",
+          "gain": 1,
+          "playback_rate": 0.92,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_wood_hit_01.ogg",
+          "gain": 0.24,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_armor_1.wav",
+      "sha256": "f40c1f8c22c6964b0ef314e49b9a1e19d908f25923e3bf576baeeaaa41af4509",
+      "pcm_sha256": "b6acf6a0bd452bfd9d68bb7d8234c50d7a17c4c620f99ecc519d496498c5a451",
+      "duration_seconds": 0.48,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_01.ogg",
+          "gain": 1,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_01.ogg",
+          "gain": 0.32,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_swing_2.wav",
+      "sha256": "93ec5cf49938be507ffd797b11b8c78addd384ef8f2baff3edb74700230dfb82",
+      "pcm_sha256": "07fd31a8a96b0b149a8a467ab5eda63eb9bbb63b20551eb149797fb088b71dde",
+      "duration_seconds": 0.1334467120181406,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-6.wav",
+          "gain": 1,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_body_2.wav",
+      "sha256": "45e5e402fddb5b78a9c89fabbf928d3de6ed67136968b4524a068f0a8bb0a3ef",
+      "pcm_sha256": "f77024a1e28eaebc27b7552419fcd726014391a73c9d6ebb17128b79922e171d",
+      "duration_seconds": 0.32,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_02.ogg",
+          "gain": 1,
+          "playback_rate": 0.92,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_wood_hit_01.ogg",
+          "gain": 0.24,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_armor_2.wav",
+      "sha256": "5fbd38ec8916794caa7b26ab23560b90b2e8a86c718177ee7bdc6e4ca9eeaae9",
+      "pcm_sha256": "bb6f9755fe88ce130975c30e2eb8f35162277118931bbe9622d8486727cd8fdd",
+      "duration_seconds": 0.48,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_02.ogg",
+          "gain": 1,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_02.ogg",
+          "gain": 0.32,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_swing_3.wav",
+      "sha256": "dcb77d5748dd9023186766f870ebe5687f0350674f88ad2f9e8519b642bdf8bb",
+      "pcm_sha256": "eee9188705576e5fbb8bb72afe08f3d8b10ed9ac6d6f771af4354592342633c4",
+      "duration_seconds": 0.15374149659863945,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-7.wav",
+          "gain": 1,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_body_3.wav",
+      "sha256": "98fe314b1a618ab87eadf647eaacde4ac019cb0cfe0588c5aeff6250a80174a3",
+      "pcm_sha256": "2d31942b3c65613b1b804e820ae83242d66de1d841842e9cbc603fefadf2a737",
+      "duration_seconds": 0.2617233560090703,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_03.ogg",
+          "gain": 1,
+          "playback_rate": 0.92,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_wood_hit_01.ogg",
+          "gain": 0.24,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/sword_armor_3.wav",
+      "sha256": "7cde758f03fdbac625b660d5451aa7688d164eaeebdb4385a3778c624c51e6c4",
+      "pcm_sha256": "0bdcafd7f6908995e0ce01adeb72911cab41c7bf2114643d981357487e658bf8",
+      "duration_seconds": 0.36625850340136057,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_03.ogg",
+          "gain": 1,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_03.ogg",
+          "gain": 0.32,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/bell_large.wav",
+      "sha256": "e1543eb3e9796f2da28c0fd5913fbfdd3880afc7565b08bca44dfe202ea58cec",
+      "pcm_sha256": "64177200b5dd8fc0957cb1bbfbc41cd667d90baa3f5632244de3fd6581047241",
+      "duration_seconds": 3.2983900226757368,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/bell3446.ogg",
+          "gain": 1,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/bell_gather.wav",
+      "sha256": "00451bd15e9c8fa632af097906b74716657ddda13c318bf25478bc5cc29b4ea4",
+      "pcm_sha256": "7d1143c0b7d26ab3078a16759b83347a81a0577e04383a4975222072297ea530",
+      "duration_seconds": 0.2124263038548753,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-2.wav",
+          "gain": 0.4,
+          "playback_rate": 1.5,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_01.ogg",
+          "gain": 0.4,
+          "playback_rate": 1.2,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/holy_hit_1.wav",
+      "sha256": "368480b3c26c2b8610b8047f4d1ca18e6f29169157454c6f9b02c69e4c71ac8d",
+      "pcm_sha256": "f69773cd75d1e3003a8145df5a829559bcb1e096c79c675b075f0345b8d2aac4",
+      "duration_seconds": 0.25029478458049886,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 1.04,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_01.ogg",
+          "gain": 0.3,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_launch_1.wav",
+      "sha256": "5add94086d71a98dfaa4092c726d5d2a300e730634c11f13f96d68a93fb14ce6",
+      "pcm_sha256": "549957b2acb6dedbc2e4d0b95d89affbedcbdab22ba7e0fc7d78f81793133312",
+      "duration_seconds": 0.27,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-1.wav",
+          "gain": 0.8,
+          "playback_rate": 1.3,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_01.ogg",
+          "gain": 0.45,
+          "playback_rate": 0.94,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.4,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_impact_1.wav",
+      "sha256": "e1c83894edc8361a126a5bc580864d5614b38e8debbf1ff890e9b257782d3def",
+      "pcm_sha256": "c4a490d997fd830a5f774cdf5148f8e23eb8565d130d76c0d2c907cde84505cb",
+      "duration_seconds": 0.2509297052154195,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_02.ogg",
+          "gain": 0.7,
+          "playback_rate": 1.06,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_01.ogg",
+          "gain": 0.25,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/holy_hit_2.wav",
+      "sha256": "29f2cbc7237f7dfd331b48005d017c7ea4066584d0efa803b0dd124682d8f57d",
+      "pcm_sha256": "e9ad47fef11b2a1d31cf1c85b44f1102e48a4200ba8cafd19e979d60d55ff34b",
+      "duration_seconds": 0.1891156462585034,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 1.08,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_02.ogg",
+          "gain": 0.3,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_launch_2.wav",
+      "sha256": "cc184e8b936f598e7ddcc849259568ee489ad5fab6454bea670f745018df850c",
+      "pcm_sha256": "a0d145061d77d6b2bf6896681e9e77ba7ecfe63933120705311af7ae948970bb",
+      "duration_seconds": 0.27,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-2.wav",
+          "gain": 0.8,
+          "playback_rate": 1.3,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_01.ogg",
+          "gain": 0.45,
+          "playback_rate": 1.0,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.4,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_impact_2.wav",
+      "sha256": "dc3815d331f61cf4d65e54c16234ed6be99b9c5f4d6b854888a57fb1e62dc27b",
+      "pcm_sha256": "0244ec2e49d75306ed312d84bb8419fa2bad4a59ff94904169dba37887928fa9",
+      "duration_seconds": 0.23857142857142857,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_02.ogg",
+          "gain": 0.7,
+          "playback_rate": 1.12,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_02.ogg",
+          "gain": 0.25,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/holy_hit_3.wav",
+      "sha256": "a17de712b312f02b9112fbb08c0c687d3b5a3e2c0cd8225f4ad255c7a85479e6",
+      "pcm_sha256": "b8eab91b530fbaa4f66b3baf887150a48da8b269a6e4b0bbf9e75c90113c36e3",
+      "duration_seconds": 0.1847392290249433,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 1.12,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_03.ogg",
+          "gain": 0.3,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_launch_3.wav",
+      "sha256": "fdc0b41f7a372e71173b072cb617bc44545669d9db89684a9202ac009cb77f37",
+      "pcm_sha256": "0f46912af6a351bbe1e98de64c8e1bdb59e91b8cd16fce6a7bd03d0d9b1113da",
+      "duration_seconds": 0.27,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-3.wav",
+          "gain": 0.8,
+          "playback_rate": 1.3,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_01.ogg",
+          "gain": 0.45,
+          "playback_rate": 1.06,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.4,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_impact_3.wav",
+      "sha256": "a5d6c6ba52defcac47be9eadd5f47efa3bbfd59c1840259102cf616265180dbf",
+      "pcm_sha256": "c840f3ea956a125052fcc69a872e8b26af418109966fc6a0df39aeb7450a6058",
+      "duration_seconds": 0.22746031746031747,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_02.ogg",
+          "gain": 0.7,
+          "playback_rate": 1.18,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/item_gem_03.ogg",
+          "gain": 0.25,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/star_gather.wav",
+      "sha256": "dbf0249f01fb5701d87c60f62e9b384ff9d5f4cb5c2480630bda672477fb5bbc",
+      "pcm_sha256": "a86b8715a5e3c64afcbbe28bae8644e5c8676162e405d1e29458336e6efd7276",
+      "duration_seconds": 0.09142857142857143,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-1.wav",
+          "gain": 0.5,
+          "playback_rate": 1.5,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/bomb_impact.wav",
+      "sha256": "c995bb78281e8505ac9f21fe132313330089baa94fca2f222db36e2a28f7a903",
+      "pcm_sha256": "b3da0e949e4011e0713621248f5c51433c29ca27ce8d426448b79dbfa8f7dc7e",
+      "duration_seconds": 1.2,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.95,
+          "playback_rate": 0.88,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 2400
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_02.ogg",
+          "gain": 0.55,
+          "playback_rate": 0.75,
+          "delay_seconds": 0.02,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/phase4/glass-break.wav",
+          "gain": 0.24,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.07,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.14,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.1,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/crystal_shatter_1.wav",
+      "sha256": "91b18d49856b16c5fd5e56f6bc98d45b142cc7590a1f40e4bdefb80d78115a95",
+      "pcm_sha256": "db447492681a34b8f4f7216322f862e8e3b3b90e927918e592c0d8590f770bee",
+      "duration_seconds": 0.6200226757369615,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_01.ogg",
+          "gain": 1,
+          "playback_rate": 0.88,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.2,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/crystal_shatter_2.wav",
+      "sha256": "0a38ee5a481547062f0a2e73096619f16ff778d9216850ed8b1b7dccb3885539",
+      "pcm_sha256": "c8f3a82cd87935f1452b8d965811d594c7cefe59a305700378b55a3d426b0984",
+      "duration_seconds": 0.6200226757369615,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_02.ogg",
+          "gain": 1,
+          "playback_rate": 0.88,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.2,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/crystal_shatter_3.wav",
+      "sha256": "f1ebd44d62df2ae63254cf7777003fa136daf92bdd1895a1d5aeae17e1e198b9",
+      "pcm_sha256": "98e5302b80f1bfc66e1082ff6b6801ca8ce3c6557032f8dc10deab70fa779698",
+      "duration_seconds": 0.7810884353741496,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_03.ogg",
+          "gain": 1,
+          "playback_rate": 0.88,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_01.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.12,
+          "playback_rate": 1.2,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/crystal_contact.wav",
+      "sha256": "77f694c54d0eaeb163ac2351df25c9abc1221407235a543d48d980cc66614640",
+      "pcm_sha256": "328fb17ae4a31f4050b7bdb56073acf4f825892ed7e46c7d7d0e491caa71d7c3",
+      "duration_seconds": 0.23405895691609976,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_01.ogg",
+          "gain": 1,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_hit_01.ogg",
+          "gain": 0.35,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_intro.wav",
+      "sha256": "e67c13dad6134deea9a58a442b53192b9748f5964a351e53d8fc4dfe99148050",
+      "pcm_sha256": "36ba69a93f6fd2b45b7ba13f4d2359bdeefa1f5b6182b5d555aa8d5ba8e3d7d3",
+      "duration_seconds": 0.7156689342403628,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/howl.ogg",
+          "gain": 1,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.18,
+          "playback_rate": 0.72,
+          "delay_seconds": 0.03,
+          "highpass_hz": 45,
+          "lowpass_hz": 2500
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_hurt_1.wav",
+      "sha256": "62eeeab393838feae17b325fe1177f6ddb10fc6a3f4bb7fc855149074b1a5f86",
+      "pcm_sha256": "138baa50d979b609c0cabfa59990fe049a270386ff3361375d2874dbde645ac7",
+      "duration_seconds": 0.473718820861678,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_01.ogg",
+          "gain": 1,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_hurt_2.wav",
+      "sha256": "b5902f5ae4c6258efb22027bdcb1f7082b2777df4e15a601560d1cd0f06f4cd4",
+      "pcm_sha256": "b9d7b201ece0936a69f4ef3dac2a5b1b776367c017a62beae57892ea20270493",
+      "duration_seconds": 0.48732426303854876,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_02.ogg",
+          "gain": 1,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_hurt_3.wav",
+      "sha256": "c759815e9de8505eadaa341f052b6f86ecfd806f6a16aeff2cadcbf97b8cb27b",
+      "pcm_sha256": "b4e1b59d679861bf75d434e771a1c0373961730190fbfd51e9febe7b2389e8cc",
+      "duration_seconds": 0.43444444444444447,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_03.ogg",
+          "gain": 1,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_claw.wav",
+      "sha256": "1463d3593094e8482ddd88504b1a03db4517a937d1d9556b9dce7b6e84807e65",
+      "pcm_sha256": "fc59d01da2d745bab1dddf38dc9e2b1ac98088d17f66424040f03536f8aab5b3",
+      "duration_seconds": 0.3039002267573696,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-8.wav",
+          "gain": 0.9,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_01.ogg",
+          "gain": 0.2,
+          "playback_rate": 1.2,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_claw_hit.wav",
+      "sha256": "3b5789d0a1903f8f5fb9314bd046cec7e7d3025d9be70fa8b94891045aa1238c",
+      "pcm_sha256": "abd3deb233aaeb8f20c3f7de19c8aa63090ede6929a5310833a6cc897b19caa3",
+      "duration_seconds": 0.2647845804988662,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_hit_05.ogg",
+          "gain": 0.9,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_hit_02.ogg",
+          "gain": 0.25,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/mini_fang_attack.wav",
+      "sha256": "bcce39b20890f1d99018ac7ffbf4c38390e9dc5021823dc670e37c2f28dde8d9",
+      "pcm_sha256": "d7db3bef89cf99ad9784f0a3c9591b3e74410c4d89fd8b96054e615fb6231a71",
+      "duration_seconds": 0.25,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-3.wav",
+          "gain": 0.5,
+          "playback_rate": 1.1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_01.ogg",
+          "gain": 0.35,
+          "playback_rate": 1.2,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/mini_fang_warning.wav",
+      "sha256": "d3a05b7df0419f240a0f6726da68dab02d2d5e60383872f7fee0d816f07ecaec",
+      "pcm_sha256": "e44ef4b8d1d90b074a40c055c687cbd0a0ec1b64e83d3fa659edab9545a19695",
+      "duration_seconds": 0.32,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_03.ogg",
+          "gain": 0.8,
+          "playback_rate": 1.15,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/mini_fang_defeat.wav",
+      "sha256": "d233cb4533e5ea658f24e4813a957576b536dffa125a8654f166d25846a29b55",
+      "pcm_sha256": "0b231227461b8f5ef510392fbc502494262224342bfeb23f2c962b83836b2a32",
+      "duration_seconds": 0.29882086167800453,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/hurt_04.ogg",
+          "gain": 0.8,
+          "playback_rate": 1.1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_ice_launch.wav",
+      "sha256": "c78370724f8c9dca9778d3d0d3df230517ca325bef28e727cf4e45c32998bf35",
+      "pcm_sha256": "6e7da6c1d42992b3702a02474c6eaab42a812f20dd4830919944daef70b856ce",
+      "duration_seconds": 0.55,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-10.wav",
+          "gain": 0.5,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_02.ogg",
+          "gain": 0.55,
+          "playback_rate": 0.85,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.35,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_ice_impact.wav",
+      "sha256": "a24e0219a2919b90ffb3797be4e4759855708351ea02888721ca2fb6e381f1dd",
+      "pcm_sha256": "821c5a87ede91a0e166cb7e6297218d4cbb69b34c98770266132fff0ef534602",
+      "duration_seconds": 0.45,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_04.ogg",
+          "gain": 0.8,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_hit_01.ogg",
+          "gain": 0.35,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_wave.wav",
+      "sha256": "2d11cb6d8709e0984467458bc9aa5bb3fde1e97aee7ad97ff1a183b0707c79ce",
+      "pcm_sha256": "93eef958f9ac03d1fca4bb9424299bb59fe637d12f2f8efa45d0a328194a9cf7",
+      "duration_seconds": 0.65,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_03.ogg",
+          "gain": 0.65,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-11.wav",
+          "gain": 0.6,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.15,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/fang_dash.wav",
+      "sha256": "ffd797b458338f2e21f32697b3fe16c2eba8528a48bf729c08e327aefda08a0d",
+      "pcm_sha256": "caec160d167a94e06bba03423d9621d875592f7f0ec22d4b884f5bebeb8c2ccd",
+      "duration_seconds": 0.45,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-12.wav",
+          "gain": 0.9,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.3,
+          "playback_rate": 0.9,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_01.ogg",
+          "gain": 0.25,
+          "playback_rate": 1,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_roar.wav",
+      "sha256": "334f5130bb315400a606e1d6c28a865cd3b5d56be398b3797d18cd1bd8d2a12b",
+      "pcm_sha256": "96f7401f9124619f17b5054c0f239fcadd20952cada028073ec75056c7491544",
+      "duration_seconds": 1.8026530612244898,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/monster_04.ogg",
+          "gain": 1,
+          "playback_rate": 0.62,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 5000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/roar_03.ogg",
+          "gain": 0.38,
+          "playback_rate": 0.7,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 4000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_03.ogg",
+          "gain": 0.16,
+          "playback_rate": 0.65,
+          "delay_seconds": 0.05,
+          "highpass_hz": 45,
+          "lowpass_hz": 2200
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_hurt_1.wav",
+      "sha256": "0d0f36b30b1d11e24690ab92d481ceab4084a1e0ab2575167ae8473ba5ff2039",
+      "pcm_sha256": "b8221f13cc1f1dba83d18c5a5bd42c6fff30653d850c53a0003da60da134ecb9",
+      "duration_seconds": 0.65,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_03.ogg",
+          "gain": 0.65,
+          "playback_rate": 0.67,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 5000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_01.ogg",
+          "gain": 0.7,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_hurt_2.wav",
+      "sha256": "a28e2fa23ebc81cd487a4bcbee59931abb41f30aaf54776743181fd0d86bbba0",
+      "pcm_sha256": "8f8f248f5011c0d4150c8e30763ba799dbb8b2a961562649347b2b1478da1396",
+      "duration_seconds": 0.65,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_04.ogg",
+          "gain": 0.65,
+          "playback_rate": 0.67,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 5000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_02.ogg",
+          "gain": 0.7,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_hurt_3.wav",
+      "sha256": "2d0b259ccff1bd7e0c20148ad356efac00e713283586e72a2b3c0e8330f247f2",
+      "pcm_sha256": "c41474511ab84b8851516d0304c267fa90bc41bea5abef5fcc97b782c7e8abe2",
+      "duration_seconds": 0.6454648526077098,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_05.ogg",
+          "gain": 0.65,
+          "playback_rate": 0.67,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 5000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_03.ogg",
+          "gain": 0.7,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_step_1.wav",
+      "sha256": "09f15c34f858a27aa892f6a59599826ba7471cd465abdca5fdae2971d104a2db",
+      "pcm_sha256": "3b7c566587ab8edf1bad4142682f5d614f7113f0c9aec1cb72ec0a410caf5752",
+      "duration_seconds": 0.56,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.75,
+          "playback_rate": 0.92,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 1400
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_01.flac",
+          "gain": 0.55,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_01.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.74,
+          "delay_seconds": 0.025,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_01.ogg",
+          "gain": 0.2,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 4200
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_step_2.wav",
+      "sha256": "d32b1a7ad2cfdb2ad9bf8e6ea0fdcd35efeb81ccf71caf3025b3f9968d156510",
+      "pcm_sha256": "d0a19f664c9c6ea2344b44651ff321ac606573476441493ed7db3ea4e9864a57",
+      "duration_seconds": 0.56,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.75,
+          "playback_rate": 0.9400000000000001,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 1400
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_02.flac",
+          "gain": 0.55,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_02.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.74,
+          "delay_seconds": 0.025,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_02.ogg",
+          "gain": 0.2,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 4200
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_step_3.wav",
+      "sha256": "893f3547c1867e3f5b6ad0480d32a73dc873988d15b54b11a72f2bf3f3226b25",
+      "pcm_sha256": "8222e1e9abcfc99bb78364b952360b3b80703f0854b571a3a44694f5ba76cfe1",
+      "duration_seconds": 0.56,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.75,
+          "playback_rate": 0.96,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 1400
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_03.flac",
+          "gain": 0.55,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_03.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.74,
+          "delay_seconds": 0.025,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_03.ogg",
+          "gain": 0.2,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 4200
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_step_4.wav",
+      "sha256": "7e092066539c5058b2ef24861d832cc99a660806cea3877ed105650250a3ac95",
+      "pcm_sha256": "448ad55ea783c0c7cffcf837d4002858218ccf7f3a1cf40cb272efde27ed2c3b",
+      "duration_seconds": 0.56,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.75,
+          "playback_rate": 0.98,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 1400
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_04.flac",
+          "gain": 0.55,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 7000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_04.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.74,
+          "delay_seconds": 0.025,
+          "highpass_hz": 45,
+          "lowpass_hz": 6000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_falling_04.ogg",
+          "gain": 0.2,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.04,
+          "highpass_hz": 45,
+          "lowpass_hz": 4200
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_charge_prepare.wav",
+      "sha256": "9b1011b105b0854a3d7517daa537582feebe4a7253072446d701470728d58634",
+      "pcm_sha256": "877af857600a1b9dab6fe7ae9bf9c6a98026607e8d2d6bed234fa307b869e5e0",
+      "duration_seconds": 0.72,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/monster_02.ogg",
+          "gain": 0.8,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 5000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_02.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_charge_launch.wav",
+      "sha256": "c0d44b2df0558fb611fa2584da0b0431493ae8c8c6bcd6154f9b4f44609ba117",
+      "pcm_sha256": "5fbc917b02dcbcdec7bd5884fa325ed3f6ae9d031897f2191c9aa9866dd49022",
+      "duration_seconds": 0.45,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-13.wav",
+          "gain": 0.75,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/roar_02.ogg",
+          "gain": 0.6,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/42-snow-and-gravel-footsteps/corsica_s-walking_in_snow/Corsica_S-Walking_in_Snow/Corsica_S-Walking_on_snow_covered_gravel_and_ice_01.flac",
+          "gain": 0.25,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_charge_impact.wav",
+      "sha256": "0ce01793289d100a837a547a01468e46fde82f34ce9463f131c3f3a3791ae67b",
+      "pcm_sha256": "ce5876cb4222a0a762dcbee7809438b061744efd6b71a1950ec975893b2dcbbf",
+      "duration_seconds": 0.92,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 0.9,
+          "playback_rate": 0.75,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 2200
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_03.ogg",
+          "gain": 0.6,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/glass-break.wav",
+          "gain": 0.35,
+          "playback_rate": 0.8,
+          "delay_seconds": 0.02,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_slam_prepare.wav",
+      "sha256": "d5616b2a8b96049110c86a9d9a193113825fa6843a7ae11b1c5881e6f669876f",
+      "pcm_sha256": "e1ac89c2eaa5019a13751acdc99ae5c1479606dd41e2b28a6796d71bbfb664c8",
+      "duration_seconds": 0.8,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-10.wav",
+          "gain": 0.55,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/grunt_05.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_01.ogg",
+          "gain": 0.3,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_slam_land.wav",
+      "sha256": "d469acfc64b7e127b9f55376049b16657eb48c13a18b464afdbd0a7b1d20bdc8",
+      "pcm_sha256": "4270b78e6838e62ce5819971e63300d60320d4c933b926c5d1f857f84fb11723",
+      "duration_seconds": 1.1,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/muffled-distant-explosion.wav",
+          "gain": 1,
+          "playback_rate": 0.72,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 2300
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_01.ogg",
+          "gain": 0.65,
+          "playback_rate": 0.68,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/glass-break.wav",
+          "gain": 0.35,
+          "playback_rate": 0.72,
+          "delay_seconds": 0.02,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_spikes.wav",
+      "sha256": "1ec180b0b7e69c08229985cd8703ec1a1c323ce2588d6427dfe9612026acee98",
+      "pcm_sha256": "d44ab892ed7084b4dc6f6ff1724a2f9ac3aef956f7fd8f12170740b9ec2a8eb5",
+      "duration_seconds": 0.6206802721088436,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_breaking_05.ogg",
+          "gain": 0.9,
+          "playback_rate": 0.68,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_rock_breaking_03.ogg",
+          "gain": 0.45,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/titan_storm.wav",
+      "sha256": "01a2a55143da76d14c59c0506ddfe4965945f40c6ea2394c963e542937467e65",
+      "pcm_sha256": "38554714503a07861927a6112901a288b9e6a90c59bf125f2bb26167a19ffc20",
+      "duration_seconds": 0.7277324263038549,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_04.ogg",
+          "gain": 0.55,
+          "playback_rate": 0.75,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.25,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/beam_charge.wav",
+      "sha256": "fbcbffce9c76a8adbb50defbc2226f4b0e5e46fb1dd0325e040b4b2222444692",
+      "pcm_sha256": "0acd243c226148dbd21132a8cd1d9aed5ce7fdd13d8a84ab16a354af967f596e",
+      "duration_seconds": 0.7275510204081632,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.35,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_04.ogg",
+          "gain": 0.5,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.28,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/beam_release.wav",
+      "sha256": "bfd3d15610316e1b4d11537a8e292795f2ec6606df9ae00682586e28200a2352",
+      "pcm_sha256": "40e4cf448d916f465b1ecd284be0c4b962d027208ff5ec727a590eb470f5c005",
+      "duration_seconds": 0.3,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/swishes-sound-pack/swishes/swish-13.wav",
+          "gain": 0.8,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_hit_05.ogg",
+          "gain": 0.45,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.55,
+          "playback_rate": 0.75,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/beam_sustain.wav",
+      "sha256": "cbbd1a3dc1340fd5cd288670dfcf041552bd9e922bc7894241353abd6946cc2d",
+      "pcm_sha256": "06be316fb9bce33ffa2c04b1481eba47129f032a01c01168c2dcda3e3a27bfc9",
+      "duration_seconds": 0.5,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.6,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_metal_falling_04.ogg",
+          "gain": 0.35,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-rpg-sfx/80-CC0-RPG-SFX_0/spell_02.ogg",
+          "gain": 0.3,
+          "playback_rate": 0.65,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": true,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    },
+    {
+      "file": "assets/audio/phase4/beam_end.wav",
+      "sha256": "d85ba36a5bbcb3e03c6bf0f25c1707a699f3a8df46881802a1265a77483c4f2b",
+      "pcm_sha256": "03bb6a243e02aa9481c28be40bd7b32904a1da5f895b0914018acbb5a527edbd",
+      "duration_seconds": 0.25,
+      "channels": 2,
+      "sample_rate": 44100,
+      "bits": 16,
+      "peak_dbfs": -3.349915301314036,
+      "clipped_samples": 0,
+      "components": [
+        {
+          "source": "build/phase4/sources/75-cc0-breaking-falling-hit-sfx/bfh1_glass_falling_03.ogg",
+          "gain": 0.45,
+          "playback_rate": 0.7,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        },
+        {
+          "source": "build/cc0-audio-pack/extracted/80-cc0-creature-sfx/80-CC0-creature-SFX_0/breath.ogg",
+          "gain": 0.3,
+          "playback_rate": 0.8,
+          "delay_seconds": 0,
+          "highpass_hz": 45,
+          "lowpass_hz": 9000
+        }
+      ],
+      "loop": false,
+      "processing": "Decode; trim threshold1.2% peak retaining3ms lead/20ms tail; recorded layer pitch/EQ/delay; 2ms onset and <=200ms tail fades; peak -3.35dBFS; PCM16 export"
+    }
+  ],
+  "routes": [
+    {
+      "id": "delivery.success",
+      "path": "assets/audio/phase4/delivery_success.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": false,
+      "loop": false
+    },
+    {
+      "id": "santa.swing.v01",
+      "path": "assets/audio/phase4/sword_swing_1.wav",
+      "gain": 0.75,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.body.v01",
+      "path": "assets/audio/phase4/sword_body_1.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.armor.v01",
+      "path": "assets/audio/phase4/sword_armor_1.wav",
+      "gain": 0.6,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "santa.swing.v02",
+      "path": "assets/audio/phase4/sword_swing_2.wav",
+      "gain": 0.75,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.body.v02",
+      "path": "assets/audio/phase4/sword_body_2.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.armor.v02",
+      "path": "assets/audio/phase4/sword_armor_2.wav",
+      "gain": 0.6,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "santa.swing.v03",
+      "path": "assets/audio/phase4/sword_swing_3.wav",
+      "gain": 0.75,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.body.v03",
+      "path": "assets/audio/phase4/sword_body_3.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "sword.armor.v03",
+      "path": "assets/audio/phase4/sword_armor_3.wav",
+      "gain": 0.6,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bell.release",
+      "path": "assets/audio/phase4/bell_large.wav",
+      "gain": 0.95,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bell.gather",
+      "path": "assets/audio/phase4/bell_gather.wav",
+      "gain": 0.22,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bell.hit.v01",
+      "path": "assets/audio/phase4/holy_hit_1.wav",
+      "gain": 0.35,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.release.v01",
+      "path": "assets/audio/phase4/star_launch_1.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.enemy_hit.v01",
+      "path": "assets/audio/phase4/star_impact_1.wav",
+      "gain": 0.42,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bell.hit.v02",
+      "path": "assets/audio/phase4/holy_hit_2.wav",
+      "gain": 0.35,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.release.v02",
+      "path": "assets/audio/phase4/star_launch_2.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.enemy_hit.v02",
+      "path": "assets/audio/phase4/star_impact_2.wav",
+      "gain": 0.42,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bell.hit.v03",
+      "path": "assets/audio/phase4/holy_hit_3.wav",
+      "gain": 0.35,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.release.v03",
+      "path": "assets/audio/phase4/star_launch_3.wav",
+      "gain": 0.65,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.enemy_hit.v03",
+      "path": "assets/audio/phase4/star_impact_3.wav",
+      "gain": 0.42,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "star.cast",
+      "path": "assets/audio/phase4/star_gather.wav",
+      "gain": 0.22,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "bomb.explosion",
+      "path": "assets/audio/phase4/bomb_impact.wav",
+      "gain": 0.9,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "crystal.break.v01",
+      "path": "assets/audio/phase4/crystal_shatter_1.wav",
+      "gain": 0.8,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "crystal.break.v02",
+      "path": "assets/audio/phase4/crystal_shatter_2.wav",
+      "gain": 0.8,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "crystal.break.v03",
+      "path": "assets/audio/phase4/crystal_shatter_3.wav",
+      "gain": 0.8,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "crystal.impact",
+      "path": "assets/audio/phase4/crystal_contact.wav",
+      "gain": 0.55,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.entrance",
+      "path": "assets/audio/phase4/fang_intro.wav",
+      "gain": 0.85,
+      "priority": 4,
+      "gameplay": false,
+      "loop": false
+    },
+    {
+      "id": "fang.hurt.v01",
+      "path": "assets/audio/phase4/fang_hurt_1.wav",
+      "gain": 0.48,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.hurt.v01",
+      "path": "assets/audio/phase4/fang_hurt_1.wav",
+      "gain": 0.25,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.hurt.v02",
+      "path": "assets/audio/phase4/fang_hurt_2.wav",
+      "gain": 0.48,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.hurt.v02",
+      "path": "assets/audio/phase4/fang_hurt_2.wav",
+      "gain": 0.25,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.hurt.v03",
+      "path": "assets/audio/phase4/fang_hurt_3.wav",
+      "gain": 0.48,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.hurt.v03",
+      "path": "assets/audio/phase4/fang_hurt_3.wav",
+      "gain": 0.25,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.claw.execute",
+      "path": "assets/audio/phase4/fang_claw.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.claw.hit",
+      "path": "assets/audio/phase4/fang_claw_hit.wav",
+      "gain": 0.7,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.strike",
+      "path": "assets/audio/phase4/mini_fang_attack.wav",
+      "gain": 0.28,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.warning",
+      "path": "assets/audio/phase4/mini_fang_warning.wav",
+      "gain": 0.28,
+      "priority": 5,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "mini_fang.defeat",
+      "path": "assets/audio/phase4/mini_fang_defeat.wav",
+      "gain": 0.28,
+      "priority": 1,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.ice_blast.execute",
+      "path": "assets/audio/phase4/fang_ice_launch.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.ice_blast.impact",
+      "path": "assets/audio/phase4/fang_ice_impact.wav",
+      "gain": 0.5,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.frost_wave.execute",
+      "path": "assets/audio/phase4/fang_wave.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.frost_dash.execute",
+      "path": "assets/audio/phase4/fang_dash.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.entrance",
+      "path": "assets/audio/phase4/titan_roar.wav",
+      "gain": 0.85,
+      "priority": 4,
+      "gameplay": false,
+      "loop": false
+    },
+    {
+      "id": "titan.hurt.v01",
+      "path": "assets/audio/phase4/titan_hurt_1.wav",
+      "gain": 0.6,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.hurt.v02",
+      "path": "assets/audio/phase4/titan_hurt_2.wav",
+      "gain": 0.6,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.hurt.v03",
+      "path": "assets/audio/phase4/titan_hurt_3.wav",
+      "gain": 0.6,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.foot_contact.v01",
+      "path": "assets/audio/phase4/titan_step_1.wav",
+      "gain": 0.62,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.foot_contact.v02",
+      "path": "assets/audio/phase4/titan_step_2.wav",
+      "gain": 0.62,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.foot_contact.v03",
+      "path": "assets/audio/phase4/titan_step_3.wav",
+      "gain": 0.62,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.foot_contact.v04",
+      "path": "assets/audio/phase4/titan_step_4.wav",
+      "gain": 0.62,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.charge.warning",
+      "path": "assets/audio/phase4/titan_charge_prepare.wav",
+      "gain": 0.65,
+      "priority": 5,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.charge.launch",
+      "path": "assets/audio/phase4/titan_charge_launch.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.charge.impact",
+      "path": "assets/audio/phase4/titan_charge_impact.wav",
+      "gain": 0.85,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.slam.warning",
+      "path": "assets/audio/phase4/titan_slam_prepare.wav",
+      "gain": 0.65,
+      "priority": 5,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.slam.execute",
+      "path": "assets/audio/phase4/titan_slam_land.wav",
+      "gain": 0.88,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.spikes.execute",
+      "path": "assets/audio/phase4/titan_spikes.wav",
+      "gain": 0.75,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.storm.execute",
+      "path": "assets/audio/phase4/titan_storm.wav",
+      "gain": 0.65,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.beam.warning",
+      "path": "assets/audio/phase4/beam_charge.wav",
+      "gain": 0.6,
+      "priority": 5,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.beam.execute",
+      "path": "assets/audio/phase4/beam_release.wav",
+      "gain": 0.8,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.beam.sustain",
+      "path": "assets/audio/phase4/beam_sustain.wav",
+      "gain": 0.32,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.beam.end",
+      "path": "assets/audio/phase4/beam_end.wav",
+      "gain": 0.35,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.slam.wave",
+      "path": "assets/audio/phase4/titan_slam_land.wav",
+      "gain": 0.88,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.charge.execute",
+      "path": "assets/audio/phase4/titan_charge_launch.wav",
+      "gain": 0.7,
+      "priority": 3,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.spikes.emerge",
+      "path": "assets/audio/phase4/titan_spikes.wav",
+      "gain": 0.75,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.beam.start",
+      "path": "assets/audio/phase4/beam_release.wav",
+      "gain": 0.8,
+      "priority": 4,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.frost_wave.sustain",
+      "path": "assets/audio/phase4/beam_sustain.wav",
+      "gain": 0.15,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "fang.frost_dash.sustain",
+      "path": "assets/audio/phase4/beam_sustain.wav",
+      "gain": 0.15,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    },
+    {
+      "id": "titan.storm.sustain",
+      "path": "assets/audio/phase4/beam_sustain.wav",
+      "gain": 0.32,
+      "priority": 2,
+      "gameplay": true,
+      "loop": false
+    }
+  ]
+}

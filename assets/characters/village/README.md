@@ -1,0 +1,15 @@
+# Village residents atlas
+
+Created with the built-in OpenAI image generation tool for the Village Visual Integration revision (2026-10-11/12). No external artwork was downloaded. This records generation provenance, not an independently verified third-party license or a claim of copyright exclusivity.
+
+`residents_atlas.png`: 2172 x 724, RGBA. Six equal 362-pixel columns: Martha, Oliver, Noah, Iris, Clara, Ben. Portraits occupy y=0..349; matching south-facing overhead idle sprites occupy y=350..723. Runtime trims transparent margins once on a shared asynchronous worker and preserves alpha. Existing native villager artwork remains the missing-file fallback. Original references and all earlier assets remain unchanged.
+
+Prompt: Create one transparent production character atlas, six columns/two rows, matching portraits above and top-down idle sprites below; no text/background/frames. Martha: auburn hair, cream hood, green coat and holly. Oliver: blond courier, goggles, red scarf and brown-red coat. Noah: dark hair, beard, goggles, blue-gray coat. Iris: light hair, red hood/cream trim. Clara: dark hair, red ribbon and red coat. Ben: brown hair, glasses, green scarf/navy coat and book. Textured hand-painted pixel-art aesthetic, dark outlines, amber highlights, cool shadows, equal readable three-head proportions. Reference: `reference/village_activities/Village_Visual_Integration.png`, supplied as style/identity guidance only.
+
+One matching idle sprite and neutral portrait per villager; no directional walking animation is needed by the existing stationary NPC implementation.
+
+The original supplied `assets/world/village_props/present.png` is reused for world/UI gift icons. Red cloth receives cached green/blue variants in memory, retaining its gold ribbon, shading and alpha; the source bitmap is unchanged. Missing artwork falls back to native gift icons.
+
+`activities_props_atlas.png`: second transparent 1254x1254 three-column/three-row atlas generated with the same built-in tool on 2026-10-12. Columns are 418 pixels; inspected row cuts are y=0..447, 448..897 and 898..1253 (generated rows are not equal height). Top row: frozen mechanism / Spirit / seal lanterns. Middle row: corresponding restored golden lamps. Bottom row: cold campfire / lit campfire / snowy open return arch. Runtime trims each cell, scales and caches small finished sprites on one shared asynchronous preparation job. Native Java2D props remain the optional-file fallback. No reference-board texture is used in the game.
+
+Prop prompt: One square transparent production atlas, 3x3 cells, no labels/frames/backgrounds. Frozen geared brass lantern, spiral/star Spirit lantern and violet crystal-sealed lantern; matching restored amber/holly versions; matching cold and burning stone-ring campfires; open snowy wooden garland arch with warm lamps and transparent walking center. Top-down three-quarter perspective, textured timber/brass/crystal/snow, crisp silhouettes, compact shadows, icy blue and warm amber. Reference boards provide style guidance only.

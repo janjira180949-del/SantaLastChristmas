@@ -1,0 +1,12 @@
+{
+  "source": "assets/characters/village/residents_atlas.png",
+  "method": "Preserve the connected body's bounds plus three source pixels; clear only external portrait/background fragments; retain original canvas, RGBA samples and runtime scaling.",
+  "sprites": [
+    {"name":"martha","atlas_crop":[33,350,329,358],"canvas":[329,358],"body_top":30,"removed_nonzero_alpha_pixels":7162,"retained_body_pixels":53409},
+    {"name":"oliver","atlas_crop":[362,350,362,358],"canvas":[362,358],"body_top":28,"removed_nonzero_alpha_pixels":7967,"retained_body_pixels":50232},
+    {"name":"noah","atlas_crop":[724,350,362,360],"canvas":[362,360],"body_top":23,"removed_nonzero_alpha_pixels":7382,"retained_body_pixels":54600},
+    {"name":"iris","atlas_crop":[1086,350,348,360],"canvas":[348,360],"body_top":25,"removed_nonzero_alpha_pixels":7314,"retained_body_pixels":55401},
+    {"name":"clara","atlas_crop":[1448,350,348,360],"canvas":[348,360],"body_top":30,"removed_nonzero_alpha_pixels":7646,"retained_body_pixels":52302},
+    {"name":"ben","atlas_crop":[1811,350,332,360],"canvas":[332,360],"body_top":28,"removed_nonzero_alpha_pixels":7194,"retained_body_pixels":48550}
+  ]
+}

@@ -1,0 +1,301 @@
+{
+  "phase": "10.3",
+  "provenance": "OpenAI image generation, guided by the two approved Phase 10.3 references; generated sources retained unchanged. Offline Java transparent trimming and nearest-neighbor export. No concept-board pixels cropped into runtime.",
+  "animations": {
+    "heavy_walk": {
+      "frames": 16,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/heavy_walk_sheet.png",
+      "sheet_layout": [
+        4,
+        4
+      ],
+      "ordering": [
+        "titan/heavy_walk/frame_01.png",
+        "titan/heavy_walk/frame_02.png",
+        "titan/heavy_walk/frame_03.png",
+        "titan/heavy_walk/frame_04.png",
+        "titan/heavy_walk/frame_05.png",
+        "titan/heavy_walk/frame_06.png",
+        "titan/heavy_walk/frame_07.png",
+        "titan/heavy_walk/frame_08.png",
+        "titan/heavy_walk/frame_09.png",
+        "titan/heavy_walk/frame_10.png",
+        "titan/heavy_walk/frame_11.png",
+        "titan/heavy_walk/frame_12.png",
+        "titan/heavy_walk/frame_13.png",
+        "titan/heavy_walk/frame_14.png",
+        "titan/heavy_walk/frame_15.png",
+        "titan/heavy_walk/frame_16.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses",
+      "foot_contacts": [
+        1,
+        9
+      ]
+    },
+    "beast_charge": {
+      "frames": 16,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/beast_charge_sheet.png",
+      "sheet_layout": [
+        4,
+        4
+      ],
+      "ordering": [
+        "titan/beast_charge/frame_01.png",
+        "titan/beast_charge/frame_02.png",
+        "titan/beast_charge/frame_03.png",
+        "titan/beast_charge/frame_04.png",
+        "titan/beast_charge/frame_05.png",
+        "titan/beast_charge/frame_06.png",
+        "titan/beast_charge/frame_07.png",
+        "titan/beast_charge/frame_08.png",
+        "titan/beast_charge/frame_09.png",
+        "titan/beast_charge/frame_10.png",
+        "titan/beast_charge/frame_11.png",
+        "titan/beast_charge/frame_12.png",
+        "titan/beast_charge/frame_13.png",
+        "titan/beast_charge/frame_14.png",
+        "titan/beast_charge/frame_15.png",
+        "titan/beast_charge/frame_16.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses",
+      "preparation_frames": [
+        1,
+        9
+      ],
+      "launch_frames": [
+        10,
+        12
+      ],
+      "impact_frames": [
+        13,
+        14
+      ],
+      "recovery_frames": [
+        15,
+        16
+      ]
+    },
+    "idle": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/idle_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/idle/frame_01.png",
+        "titan/idle/frame_02.png",
+        "titan/idle/frame_03.png",
+        "titan/idle/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    },
+    "entrance": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/entrance_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/entrance/frame_01.png",
+        "titan/entrance/frame_02.png",
+        "titan/entrance/frame_03.png",
+        "titan/entrance/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    },
+    "ground_slam": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/ground_slam_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/ground_slam/frame_01.png",
+        "titan/ground_slam/frame_02.png",
+        "titan/ground_slam/frame_03.png",
+        "titan/ground_slam/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    },
+    "cast": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/cast_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/cast/frame_01.png",
+        "titan/cast/frame_02.png",
+        "titan/cast/frame_03.png",
+        "titan/cast/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    },
+    "hurt": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/hurt_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/hurt/frame_01.png",
+        "titan/hurt/frame_02.png",
+        "titan/hurt/frame_03.png",
+        "titan/hurt/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    },
+    "defeat": {
+      "frames": 4,
+      "frame_size": [
+        512,
+        512
+      ],
+      "sheet": "titan/defeat_sheet.png",
+      "sheet_layout": [
+        4,
+        1
+      ],
+      "ordering": [
+        "titan/defeat/frame_01.png",
+        "titan/defeat/frame_02.png",
+        "titan/defeat/frame_03.png",
+        "titan/defeat/frame_04.png"
+      ],
+      "anchor": [
+        256,
+        496
+      ],
+      "runtime_canvas": [
+        256,
+        256
+      ],
+      "frame_timing": "5 active updates/frame for walk and charge; state-based selection for other poses"
+    }
+  },
+  "pose_aliases": {
+    "ice_spikes": "cast",
+    "dark_frost_beam": "cast",
+    "black_frost_storm": "cast",
+    "phase_transition": "cast"
+  },
+  "tree": {
+    "frames": [
+      "tree/frame_01.png",
+      "tree/frame_02.png",
+      "tree/frame_03.png"
+    ],
+    "states": [
+      "normal",
+      "corrupted",
+      "restored"
+    ],
+    "canvas": [
+      384,
+      320
+    ],
+    "anchor": [
+      192,
+      320
+    ],
+    "world_root": [
+      1296,
+      1008
+    ],
+    "render_foot_offset": 64,
+    "restoration_updates": 180
+  },
+  "buildings": 6,
+  "props": 8,
+  "generation_limitations": "AI-authored frames contain actual limb and body changes, but small per-pose proportion/detail variations remain. Not hand-drawn animation; human approval is pending."
+}

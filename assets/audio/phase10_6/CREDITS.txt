@@ -1,0 +1,94 @@
+SANTA: LAST CHRISTMAS — AUDIO ACKNOWLEDGMENTS
+Phase 10.6A.1 CC0 audio selection and adaptations
+
+Music and sound effects licensed CC0 1.0 Universal:
+https://creativecommons.org/publicdomain/zero/1.0/
+
+rubberduck — 100 CC0 metal and wood SFX
+https://opengameart.org/content/100-cc0-metal-and-wood-sfx
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Corsica_S; extracted by Iwan Gabovitch (qubodup) — 42 Snow and Gravel Footsteps
+https://opengameart.org/content/42-snow-and-gravel-footsteps
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+rubberduck — 80 CC0 creature SFX
+https://opengameart.org/content/80-cc0-creature-sfx
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+rubberduck — 80 CC0 RPG SFX
+https://opengameart.org/content/80-cc0-rpg-sfx
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+troubadour — Fantasy Song Pack Volume 1
+https://opengameart.org/content/fantasy-song-pack-volume-1
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Fantozzi; individual steps extracted by Iwan Gabovitch (qubodup) — Fantozzi's Footsteps (Grass/Sand & Stone)
+https://opengameart.org/content/fantozzis-footsteps-grasssand-stone
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+PagDev — Fireplace Sound loop
+https://opengameart.org/content/fireplace-sound-loop
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Juhani Junkala (SubspaceAudio) — JRPG Pack 1 Exploration
+https://opengameart.org/content/jrpg-pack-1-exploration
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Juhani Junkala (SubspaceAudio) — JRPG Pack 2 Towns
+https://opengameart.org/content/jrpg-pack-2-towns
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Juhani Junkala (SubspaceAudio) — JRPG Pack 3 Evil
+https://opengameart.org/content/jrpg-pack-3-evil
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Juhani Junkala (SubspaceAudio) — JRPG Pack 5 Action
+https://opengameart.org/content/jrpg-pack-5-action
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+JaggedStone — Magic Spell SFX
+https://opengameart.org/content/magic-spell-sfx
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+mikeask — Steps in wood floor
+https://opengameart.org/content/steps-in-wood-floor
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+LEGIT Audio — The Shop
+https://opengameart.org/content/the-shop
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Luke.RUSTLTD — wind1
+https://opengameart.org/content/wind1
+License: CC0 1.0 Universal
+https://creativecommons.org/publicdomain/zero/1.0/
+
+Environmental arrangements, loop edits and contact extraction prepared for this project.
+Third-party recordings remain credited to their original creators.
+No creator endorsement is implied.
+
+Retained original Main Menu: Emma_MA (Emma M. Andersson) — Wintery loop
+https://opengameart.org/content/wintery-loop
+CC0 1.0 Universal — https://creativecommons.org/publicdomain/zero/1.0/
+
+Phase10.6C current runtime: 198 events map to103 unique WAVs (the unchanged menu plus102 new recordings). Current game credits include the actual licensed creators. The earlier source-pack and Phase10.6B counts above are historical provenance.
+
+Phase10.6C boss music: Battle Theme A — cynicmusic (cynicmusic.com; pixelsphere.org), https://opengameart.org/content/battle-theme-a ; Epic Fight Theme/Boss Battle — Tarush Singhal, https://opengameart.org/content/epic-fight-themeboss-battle . Both CC0 1.0 Universal: https://creativecommons.org/publicdomain/zero/1.0/ . Related source-section loops prepared for each phase. Fang/Titan fall accents layer only the new CC0 rubberduck recordings documented in SOURCE_COMPONENTS.json. Original Main Menu rights and recording unchanged.
+
+Town departure audio: sleigh bells by soundstack (https://freesound.org/people/soundstack/sounds/255104/) and Santa-style laughter by canucklovingbrit (https://freesound.org/people/canucklovingbrit/sounds/110642/), both CC0 1.0 Universal. Official public HQ previews were excerpted, attenuated and converted to 44,100 Hz, 16-bit stereo PCM. No specific actor imitation. Human listening approval remains pending. Source hashes, recipes and primary license pages accompany the runtime manifest.

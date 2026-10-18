@@ -1,0 +1,45 @@
+# Generated compilation, development and local files
+/out/
+/build/
+/dist/
+/release/
+/.validation/
+/.vscode/
+/.idea/
+*.class
+*.log
+*.tmp
+*.pyc
+*.pyo
+__pycache__/
+.DS_Store
+Thumbs.db
+
+# Credentials and private settings
+.env
+.env.*
+*.pem
+*.key
+*.p12
+*.pfx
+
+# Runtime binary resources and historical/backup exports are distributed separately
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.webp
+*.wav
+*.ogg
+*.mp3
+*.flac
+*.zip
+*.7z
+*.rar
+*.jar
+*.exe
+*.dll
+*.docx
+*.pdf
+*Cleanup_Manifest*
+*Cleanup_Report*

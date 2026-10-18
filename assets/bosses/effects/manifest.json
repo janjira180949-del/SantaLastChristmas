@@ -1,0 +1,234 @@
+{
+  "animations": [
+    {
+      "animation": "beam",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "blast",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "claw",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "dash",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "defeat",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "footstep",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "hurt",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "slam",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "spikes",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "storm",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "warning",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    },
+    {
+      "animation": "wave",
+      "frame_count": 12,
+      "frame_dimensions": [
+        256,
+        256
+      ],
+      "sheet_layout": [
+        4,
+        3
+      ],
+      "fps": 30,
+      "anchor": [
+        128,
+        240
+      ],
+      "ordering": "row-major, frame_01 onward",
+      "loop": false
+    }
+  ],
+  "provenance": "OpenAI generated Fang source poses; source-derived local rig and offline seeded pixel effects",
+  "runtime_owner": "boss.BossArtwork / boss.BossAttacks"
+}

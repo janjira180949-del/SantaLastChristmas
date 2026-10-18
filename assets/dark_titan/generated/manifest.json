@@ -1,0 +1,1 @@
+{"heavy_walk":{"frames":16,"size":[512,512],"sheet":[2048,2048],"layout":[4,4],"fps":12,"anchor":[256,496],"foot_contact_frames":[1,9]},"beast_charge":{"frames":16,"size":[512,512],"sheet":[2048,2048],"layout":[4,4],"fps":12,"anchor":[256,496],"launch_frame":10,"impact_frame":13,"recovery_frames":[15,16]}}

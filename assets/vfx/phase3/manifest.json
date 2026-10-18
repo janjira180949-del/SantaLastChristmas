@@ -1,0 +1,48 @@
+{
+  "provenance": {
+    "authoring": "Built-in imagegen; original generation, not existing game artwork",
+    "processing": "Java ImageIO alpha bounds, stable anchors, nearest-neighbor resampling",
+    "masters": "build/phase3/generated-originals"
+  },
+  "smoke": {
+    "sheet": "smoke_sheet.png",
+    "frames": 16,
+    "columns": 4,
+    "rows": 4,
+    "frame_size": [
+      128,
+      128
+    ],
+    "anchor": [
+      64,
+      120
+    ],
+    "order": "row major",
+    "preparation_updates": 60,
+    "residue_updates": 24,
+    "frame_rule": "gather frames0-9 every6 active updates; fade frames10-15 every4",
+    "collision": "none; actors fully visible at authoritative activation"
+  },
+  "beam": {
+    "sheet": "beam_sheet.png",
+    "frames": 8,
+    "columns": 2,
+    "rows": 4,
+    "frame_size": [
+      512,
+      256
+    ],
+    "anchor": [
+      0,
+      128
+    ],
+    "order": "row major",
+    "fps_at_60_updates": 20,
+    "authoritative_warning_updates": 60,
+    "active_updates": 45,
+    "damage_half_width": 24,
+    "range": "existing solid-clipped beam, max379",
+    "recovery_residue_updates": 12,
+    "collision": "unchanged BossAttacks calculations; aura is decorative"
+  }
+}

@@ -1,0 +1,62 @@
+[
+  {
+    "path": "assets/audio/music/wintery loop.wav",
+    "title": "Wintery loop",
+    "author": "Emma_MA",
+    "source": "https://opengameart.org/content/wintery-loop",
+    "download": "https://opengameart.org/sites/default/files/wintery%20loop.wav",
+    "archive_member": null,
+    "sha256": "2abe80e3b68c4bd27ce33998ce1daf208564579bf4a1f91435d64d5b4403a670",
+    "publisher_match": true,
+    "license": "CC0-1.0",
+    "redistribution": true
+  },
+  {
+    "path": "assets/audio/music/BGM_Snow_Theme_Loop.flac",
+    "title": "Through the Snow (Snow Theme)",
+    "author": "Cleyton Kauffman",
+    "source": "https://opengameart.org/content/snow-theme",
+    "download": "https://opengameart.org/sites/default/files/snow_theme_1.zip",
+    "archive_member": "Snow Theme/BGM_Snow_Theme_Loop.flac",
+    "sha256": "19caa72e418201ac0e00a2be151edf387eacc6f3dc696cdda9908815b8a4d90c",
+    "publisher_match": true,
+    "license": "CC0-1.0",
+    "redistribution": true
+  },
+  {
+    "path": "assets/audio/music/synth-thetic_-_beyond_the_frozen_veil_-_cc0.7z",
+    "title": "Beyond the Frozen Veil",
+    "author": "Synth-thetic",
+    "source": "https://opengameart.org/content/beyond-the-frozen-veil",
+    "download": "https://opengameart.org/sites/default/files/synth-thetic_-_beyond_the_frozen_veil_-_cc0.7z",
+    "archive_member": null,
+    "sha256": "aa48e8a6b4ad1f98debe95a59f6f319b12f53fb86d7c3ccde3cd7004d79ee22e",
+    "publisher_match": true,
+    "license": "CC0-1.0",
+    "redistribution": true
+  },
+  {
+    "path": "assets/audio/music/winter-wind-short.mp3",
+    "title": "Winter Wind (short)",
+    "author": "wipics",
+    "source": "https://opengameart.org/content/winter-wind",
+    "download": "https://opengameart.org/sites/default/files/winter-wind-short.mp3",
+    "archive_member": null,
+    "sha256": "a7d231363d91fc93dde735f76004e76f4feb25c1fe824fc4754d9ec216051411",
+    "publisher_match": true,
+    "license": "CC0-1.0",
+    "redistribution": true
+  },
+  {
+    "path": "assets/audio/music/Juhani Junkala - Epic Boss Battle [Seamlessly Looping].wav",
+    "title": "Epic Boss Battle",
+    "author": "Juhani Junkala / SubspaceAudio",
+    "source": "https://opengameart.org/content/boss-battle-music",
+    "download": "https://opengameart.org/sites/default/files/Juhani%20Junkala%20-%20Epic%20Boss%20Battle%20%5BSeamlessly%20Looping%5D.wav",
+    "archive_member": null,
+    "sha256": "35f75b4381dfbb053992876f7dfc567d9fd959d61b73954d5b1cd519753e7df1",
+    "publisher_match": true,
+    "license": "CC0-1.0",
+    "redistribution": true
+  }
+]
